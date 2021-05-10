@@ -1,0 +1,604 @@
+,Name,Latitude,Longitude,accessibility_0,accessibility_1,Accessibility,colour
+0,Beeston,52.926777,-1.215878,WheelchairAccess,AudioCashMachine,Both,#27AE60
+1,"Eastwood, Nottinghamshire",53.018185,-1.305781,WheelchairAccess,AudioCashMachine,Both,#27AE60
+2,Ilkeston,52.973766,-1.309159,WheelchairAccess,AudioCashMachine,Both,#27AE60
+3,Long Eaton,52.898041,-1.271489,None,None,None,#E74C3C
+4,"Ashford, Kent",51.148852,0.873529,WheelchairAccess,AudioCashMachine,Both,#27AE60
+5,"Bristol, Whiteladies Road",51.467373,-2.611951,WheelchairAccess,AudioCashMachine,Both,#27AE60
+6,Belper,53.023262,-1.484335,WheelchairAccess,AudioCashMachine,Both,#27AE60
+7,"Derby, St Peter's Street",52.921593,-1.476054,WheelchairAccess,AudioCashMachine,Both,#27AE60
+8,Bangor,53.227352,-4.124281,WheelchairAccess,AudioCashMachine,Both,#27AE60
+9,Hastings,50.855347,0.579273,WheelchairAccess,AudioCashMachine,Both,#27AE60
+10,"Ipswich, Tavern Street",52.057747,1.153668,WheelchairAccess,AudioCashMachine,Both,#27AE60
+11,Woodbridge,52.093624,1.319566,WheelchairAccess,AudioCashMachine,Both,#27AE60
+12,Burnley,53.788437,-2.242847,WheelchairAccess,AudioCashMachine,Both,#27AE60
+13,Clitheroe,53.871143,-2.392276,None,None,None,#E74C3C
+14,Newtown,52.51519,-3.315486,WheelchairAccess,AudioCashMachine,Both,#27AE60
+15,St Austell,50.338516,-4.793151,WheelchairAccess,AudioCashMachine,Both,#27AE60
+16,Douglas,54.148821,-4.480586,WheelchairAccess,AudioCashMachine,Both,#27AE60
+17,Bishop's Castle,52.493716,-2.997675,None,None,None,#E74C3C
+18,Witney,51.784378,-1.485744,WheelchairAccess,AudioCashMachine,Both,#27AE60
+19,Bicester,51.897165,-1.150477,WheelchairAccess,AudioCashMachine,Both,#27AE60
+20,"Milton Keynes, Midsummer Place",52.040989,-0.75721,WheelchairAccess,AudioCashMachine,Both,#27AE60
+21,Rushden,52.290928,-0.598092,WheelchairAccess,AudioCashMachine,Both,#27AE60
+22,Andover,51.207546,-1.478935,WheelchairAccess,AudioCashMachine,Both,#27AE60
+23,Baker Street,51.520102,-0.1564055,WheelchairAccess,AudioCashMachine,Both,#27AE60
+24,Bethnal Green,51.527519,-0.057224,WheelchairAccess,AudioCashMachine,Both,#27AE60
+25,Edgware Road,51.517697,-0.167238,WheelchairAccess,AudioCashMachine,Both,#27AE60
+26,Camden Town,51.539291,-0.142696,WheelchairAccess,AudioCashMachine,Both,#27AE60
+27,Whitechapel,51.517274,-0.0675,WheelchairAccess,AudioCashMachine,Both,#27AE60
+28,Finsbury Park,51.565416,-0.103099,WheelchairAccess,AudioCashMachine,Both,#27AE60
+29,Moorgate,51.519539,-0.087069,WheelchairAccess,AudioCashMachine,Both,#27AE60
+30,Hackney,51.544479,-0.056097,WheelchairAccess,AudioCashMachine,Both,#27AE60
+31,High Holborn,51.517362,-0.121347,WheelchairAccess,AudioCashMachine,Both,#27AE60
+32,Angel Islington,51.532688,-0.106545,WheelchairAccess,AudioCashMachine,Both,#27AE60
+33,Kings Cross,51.52964,-0.123957,WheelchairAccess,AudioCashMachine,Both,#27AE60
+34,Marylebone Road,51.522472,-0.157378,WheelchairAccess,AudioCashMachine,Both,#27AE60
+35,Oxford Circus,51.515647,-0.140027,WheelchairAccess,AudioCashMachine,Both,#27AE60
+36,Paddington,51.518865,-0.169429,WheelchairAccess,AudioCashMachine,Both,#27AE60
+37,Russell Square,51.523083,-0.125625,WheelchairAccess,AudioCashMachine,Both,#27AE60
+38,Tottenham Court Road,51.518845,-0.132651,WheelchairAccess,AudioCashMachine,Both,#27AE60
+39,Walthamstow,51.585716,-0.020025,WheelchairAccess,AudioCashMachine,Both,#27AE60
+40,Old Broad Street,51.516167,-0.084241,WheelchairAccess,AudioCashMachine,Both,#27AE60
+41,Holborn Circus,51.517609,-0.109519,WheelchairAccess,AudioCashMachine,Both,#27AE60
+42,Cheshunt,51.702557,-0.0349,WheelchairAccess,AudioCashMachine,Both,#27AE60
+43,"Enfield, The Town",51.651993,-0.081298,WheelchairAccess,AudioCashMachine,Both,#27AE60
+44,Hoddesdon,51.759185,-0.012458,WheelchairAccess,AudioCashMachine,Both,#27AE60
+45,Westfield Stratford City,51.543555,-0.006666,WheelchairAccess,AudioCashMachine,Both,#27AE60
+46,Waltham Cross,51.685848,-0.033425,None,None,None,#E74C3C
+47,Bromsgrove,52.334873,-2.061462,WheelchairAccess,AudioCashMachine,Both,#27AE60
+48,Droitwich,52.267349,-2.150682,WheelchairAccess,AudioCashMachine,Both,#27AE60
+49,"Worcester, Broad Street",52.192966,-2.222098,WheelchairAccess,AudioCashMachine,Both,#27AE60
+50,Wadebridge,50.516693,-4.836519,WheelchairAccess,AudioCashMachine,Both,#27AE60
+51,Castleford,53.725895,-1.353443,WheelchairAccess,AudioCashMachine,Both,#27AE60
+52,Pontefract,53.690571,-1.311809,WheelchairAccess,AudioCashMachine,Both,#27AE60
+53,"Bath, Southgate",51.378952,-2.360117,WheelchairAccess,AudioCashMachine,Both,#27AE60
+54,Perth High Street,56.396454,-3.428732,WheelchairAccess,AudioCashMachine,Both,#27AE60
+55,Penzance,50.118774,-5.537837,WheelchairAccess,AudioCashMachine,Both,#27AE60
+56,"Jersey, St Brelade",49.1847542,-2.2025194,WheelchairAccess,AudioCashMachine,Both,#27AE60
+57,Merry Hill,52.482059,-2.110495,WheelchairAccess,AudioCashMachine,Both,#27AE60
+58,Wednesbury,52.552052,-2.018348,WheelchairAccess,AudioCashMachine,Both,#27AE60
+59,Dudley,52.510815,-2.082292,WheelchairAccess,AudioCashMachine,Both,#27AE60
+60,Halesowen,52.448486,-2.050306,WheelchairAccess,AudioCashMachine,Both,#27AE60
+61,Kingswinford,52.496815,-2.168037,WheelchairAccess,AudioCashMachine,Both,#27AE60
+62,Stourbridge,52.455829,-2.144999,WheelchairAccess,AudioCashMachine,Both,#27AE60
+63,West Bromwich,52.520767,-1.998601,WheelchairAccess,AudioCashMachine,Both,#27AE60
+64,Braintree,51.878796,0.551795,WheelchairAccess,AudioCashMachine,Both,#27AE60
+65,Ross-On-Wye,51.913719,-2.581875,WheelchairAccess,AudioCashMachine,Both,#27AE60
+66,Herne Bay,51.37149,1.128786,WheelchairAccess,AudioCashMachine,Both,#27AE60
+67,Canterbury,51.277603,1.080666,WheelchairAccess,AudioCashMachine,Both,#27AE60
+68,Oakham,52.66951,-0.728393,WheelchairAccess,AudioCashMachine,Both,#27AE60
+69,Llangefni,53.255585,-4.311629,WheelchairAccess,AudioCashMachine,Both,#27AE60
+70,Yeovil,50.941593,-2.631793,WheelchairAccess,AudioCashMachine,Both,#27AE60
+71,Henley-On-Thames,51.537731,-0.90513,None,None,None,#E74C3C
+72,Marlow,51.570705,-0.776077,WheelchairAccess,AudioCashMachine,Both,#27AE60
+73,Seaford,50.773327,0.102623,WheelchairAccess,AudioCashMachine,Both,#27AE60
+74,Boston,52.978691,-0.02393,WheelchairAccess,AudioCashMachine,Both,#27AE60
+75,Omagh,54.600006,-7.298677,WheelchairAccess,AudioCashMachine,Both,#27AE60
+76,Wells,51.209442,-2.64576,None,None,None,#E74C3C
+77,Dorking,51.23172,-0.333179,WheelchairAccess,AudioCashMachine,Both,#27AE60
+78,Horsham,51.062374,-0.32975,WheelchairAccess,AudioCashMachine,Both,#27AE60
+79,Reigate,51.237827,-0.206536,WheelchairAccess,AudioCashMachine,Both,#27AE60
+80,Exmouth,50.61919,-3.412467,WheelchairAccess,AudioCashMachine,Both,#27AE60
+81,Newton Abbot,50.530201,-3.609911,WheelchairAccess,AudioCashMachine,Both,#27AE60
+82,Coleraine,55.1326,-6.665432,WheelchairAccess,AudioCashMachine,Both,#27AE60
+83,Trowbridge,51.320892,-2.207336,WheelchairAccess,AudioCashMachine,Both,#27AE60
+84,"Preston, Fishergate",53.757292,-2.70454,WheelchairAccess,AudioCashMachine,Both,#27AE60
+85,Carmarthen,51.856697,-4.310111,WheelchairAccess,None,Wheelchair Only,#003FF6
+86,Cwmbran,51.653725,-3.020346,WheelchairAccess,AudioCashMachine,Both,#27AE60
+87,Pontypool,51.703114,-3.041253,WheelchairAccess,AudioCashMachine,Both,#27AE60
+88,Glasgow,55.858501,-4.254375,WheelchairAccess,AudioCashMachine,Both,#27AE60
+89,"High Wycombe, Corn Market",51.629608,-0.751073,WheelchairAccess,AudioCashMachine,Both,#27AE60
+90,Maidenhead,51.522663,-0.719579,WheelchairAccess,AudioCashMachine,Both,#27AE60
+91,Huntingdon,52.3298,-0.182085,WheelchairAccess,AudioCashMachine,Both,#27AE60
+92,"St Ives, Cambridgeshire",52.322789,-0.071952,WheelchairAccess,AudioCashMachine,Both,#27AE60
+93,"Guernsey, St Peter Port",49.464241,-2.557833,None,None,None,#E74C3C
+94,"Guernsey, St Martin",49.427852,-2.577223,WheelchairAccess,AudioCashMachine,Both,#27AE60
+95,"Guernsey, St Sampson",49.498941,-2.527389,WheelchairAccess,AudioCashMachine,Both,#27AE60
+96,Sevenoaks,51.269855,0.192935,WheelchairAccess,AudioCashMachine,Both,#27AE60
+97,Tonbridge,51.19537,0.274532,WheelchairAccess,AudioCashMachine,Both,#27AE60
+98,Kidderminster,52.388763,-2.249323,WheelchairAccess,AudioCashMachine,Both,#27AE60
+99,Stourport-On-Severn,52.339752,-2.280193,WheelchairAccess,AudioCashMachine,Both,#27AE60
+100,"Lincoln, Stonebow",53.229131,-0.540624,WheelchairAccess,None,Wheelchair Only,#003FF6
+101,Bracknell,51.416222,-0.747822,WheelchairAccess,AudioCashMachine,Both,#27AE60
+102,"Slough, High Street",51.508926,-0.593676,WheelchairAccess,AudioCashMachine,Both,#27AE60
+103,Weybridge,51.371616,-0.46179,WheelchairAccess,AudioCashMachine,Both,#27AE60
+104,"Windsor, High Street",51.482265,-0.607818,WheelchairAccess,AudioCashMachine,Both,#27AE60
+105,Llandrindod Wells,52.240265,-3.379674,WheelchairAccess,AudioCashMachine,Both,#27AE60
+106,Guisborough,54.535809,-1.052634,WheelchairAccess,AudioCashMachine,Both,#27AE60
+107,Loughton,51.645592,0.053697,WheelchairAccess,None,Wheelchair Only,#003FF6
+108,Romford,51.57896,0.180433,WheelchairAccess,AudioCashMachine,Both,#27AE60
+109,"Bridgend, Dunraven Place",51.507187,-3.579476,WheelchairAccess,AudioCashMachine,Both,#27AE60
+110,Port Talbot,51.593941,-3.781141,WheelchairAccess,AudioCashMachine,Both,#27AE60
+111,"Bournemouth, Old Christchurch Road",50.721073,-1.876987,WheelchairAccess,AudioCashMachine,Both,#27AE60
+112,"Bournemouth, Winton",50.742062,-1.879228,WheelchairAccess,AudioCashMachine,Both,#27AE60
+113,Christchurch,50.734955,-1.778397,WheelchairAccess,AudioCashMachine,Both,#27AE60
+114,Poole,50.717178,-1.982341,WheelchairAccess,AudioCashMachine,Both,#27AE60
+115,"Bournemouth, Westbourne",50.723274,-1.904889,WheelchairAccess,AudioCashMachine,Both,#27AE60
+116,"Hartlepool, York Road",54.684254,-1.216423,WheelchairAccess,AudioCashMachine,Both,#27AE60
+117,"Newport, Isle Of Wight",50.698994,-1.295531,WheelchairAccess,AudioCashMachine,Both,#27AE60
+118,Street,51.125842,-2.741248,WheelchairAccess,AudioCashMachine,Both,#27AE60
+119,Dorchester,50.715019,-2.437013,WheelchairAccess,AudioCashMachine,Both,#27AE60
+120,Winchester,51.062847,-1.316553,WheelchairAccess,AudioCashMachine,Both,#27AE60
+121,Beccles,52.45734,1.563273,WheelchairAccess,AudioCashMachine,Both,#27AE60
+122,Birkenhead,53.389389,-3.02638,WheelchairAccess,AudioCashMachine,Both,#27AE60
+123,Chichester,50.836323,-0.778982,WheelchairAccess,AudioCashMachine,Both,#27AE60
+124,Petersfield,51.004025,-0.938105,WheelchairAccess,AudioCashMachine,Both,#27AE60
+125,Waterlooville,50.880486,-1.030113,WheelchairAccess,AudioCashMachine,Both,#27AE60
+126,Bognor Regis,50.782948,-0.674096,WheelchairAccess,AudioCashMachine,Both,#27AE60
+127,Rustington,50.810524,-0.505742,WheelchairAccess,AudioCashMachine,Both,#27AE60
+128,Oxted,51.257988,-0.002766,WheelchairAccess,AudioCashMachine,Both,#27AE60
+129,Mold,53.167297,-3.142449,WheelchairAccess,AudioCashMachine,Both,#27AE60
+130,"Middlesbrough, Albert Road",54.5764742,-1.2345847,WheelchairAccess,AudioCashMachine,Both,#27AE60
+131,"Sheffield, Crystal Peaks",53.341607,-1.353395,WheelchairAccess,AudioCashMachine,Both,#27AE60
+132,Maldon,51.731176,0.679396,WheelchairAccess,AudioCashMachine,Both,#27AE60
+133,"Portsmouth, Commercial Road",50.79958,-1.090663,WheelchairAccess,AudioCashMachine,Both,#27AE60
+134,"Ryde, Isle Of Wight",50.730125,-1.162386,WheelchairAccess,AudioCashMachine,Both,#27AE60
+135,Deal,51.224567,1.402469,WheelchairAccess,AudioCashMachine,Both,#27AE60
+136,Ramsgate,51.334847,1.41792,None,None,None,#E74C3C
+137,Bridgnorth,52.534714,-2.419703,WheelchairAccess,AudioCashMachine,Both,#27AE60
+138,Ripley,53.051262,-1.404785,WheelchairAccess,AudioCashMachine,Both,#27AE60
+139,"Oxford, Headington",51.75972,-1.211952,WheelchairAccess,AudioCashMachine,Both,#27AE60
+140,"Oxford, Cornmarket Street",51.752098,-1.258051,WheelchairAccess,AudioCashMachine,Both,#27AE60
+141,"Oxford, Summertown",51.778904,-1.265801,WheelchairAccess,AudioCashMachine,Both,#27AE60
+142,Louth,53.366257,-0.006083,WheelchairAccess,AudioCashMachine,Both,#27AE60
+143,Market Harborough,52.478626,-0.922523,WheelchairAccess,AudioCashMachine,Both,#27AE60
+144,"Eastbourne, Terminus Road",50.768444,0.283343,WheelchairAccess,AudioCashMachine,Both,#27AE60
+145,Frome,51.231106,-2.321265,None,None,None,#E74C3C
+146,"Shrewsbury, High Street",52.707547,-2.753655,WheelchairAccess,AudioCashMachine,Both,#27AE60
+147,"Birmingham, Erdington",52.525509,-1.836792,WheelchairAccess,AudioCashMachine,Both,#27AE60
+148,Four Oaks,52.587837,-1.830613,WheelchairAccess,AudioCashMachine,Both,#27AE60
+149,Lichfield,52.683933,-1.827647,WheelchairAccess,AudioCashMachine,Both,#27AE60
+150,Sutton Coldfield,52.5617285,-1.8231309,WheelchairAccess,AudioCashMachine,Both,#27AE60
+151,Tamworth,52.633209,-1.695877,WheelchairAccess,AudioCashMachine,Both,#27AE60
+152,Walsall,52.584702,-1.981345,WheelchairAccess,AudioCashMachine,Both,#27AE60
+153,"Nottingham, Clumber Street",52.954102,-1.14727,WheelchairAccess,AudioCashMachine,Both,#27AE60
+154,West Bridgford,52.931984,-1.127144,WheelchairAccess,AudioCashMachine,Both,#27AE60
+155,Weymouth,50.609921,-2.453831,WheelchairAccess,AudioCashMachine,Both,#27AE60
+156,Beverley,53.842992,-0.432961,WheelchairAccess,AudioCashMachine,Both,#27AE60
+157,Driffield,54.004969,-0.43951,WheelchairAccess,AudioCashMachine,Both,#27AE60
+158,Eastcote,51.578075,-0.398343,WheelchairAccess,AudioCashMachine,Both,#27AE60
+159,"Hayes, Middlesex",51.507038,-0.419121,WheelchairAccess,AudioCashMachine,Both,#27AE60
+160,Pinner,51.594856,-0.382968,WheelchairAccess,AudioCashMachine,Both,#27AE60
+161,Ruislip,51.574509,-0.424646,WheelchairAccess,AudioCashMachine,Both,#27AE60
+162,"Southall, The Broadway",51.511551,-0.376826,WheelchairAccess,AudioCashMachine,Both,#27AE60
+163,Staines-Upon-Thames,51.433537,-0.511157,WheelchairAccess,AudioCashMachine,Both,#27AE60
+164,Uxbridge,51.545752,-0.479164,WheelchairAccess,None,Wheelchair Only,#003FF6
+165,Walton-On-Thames,51.385189,-0.418738,WheelchairAccess,AudioCashMachine,Both,#27AE60
+166,Blackwood,51.667896,-3.1955,WheelchairAccess,AudioCashMachine,Both,#27AE60
+167,"Cardiff, Queen Street",51.481876,-3.175651,WheelchairAccess,AudioCashMachine,Both,#27AE60
+168,"Cardiff, Rumney",51.508692,-3.132014,WheelchairAccess,AudioCashMachine,Both,#27AE60
+169,"Cardiff, Rhyd-y-Penau",51.519642,-3.178779,WheelchairAccess,AudioCashMachine,Both,#27AE60
+170,"Cardiff, Albany Road",51.49395,-3.165331,WheelchairAccess,AudioCashMachine,Both,#27AE60
+171,Caernarfon,53.139359,-4.273848,WheelchairAccess,AudioCashMachine,Both,#27AE60
+172,Ashton-Under-Lyne,53.486263,-2.09684,WheelchairAccess,None,Wheelchair Only,#003FF6
+173,"Manchester, St Ann's",53.482587,-2.24576,WheelchairAccess,AudioCashMachine,Both,#27AE60
+174,"Manchester, Didsbury",53.416245,-2.232143,WheelchairAccess,AudioCashMachine,Both,#27AE60
+175,Oldham,53.541187,-2.109242,WheelchairAccess,AudioCashMachine,Both,#27AE60
+176,Stockport,53.411667,-2.157756,WheelchairAccess,AudioCashMachine,Both,#27AE60
+177,Stockton-On-Tees,54.565243,-1.313574,WheelchairAccess,AudioCashMachine,Both,#27AE60
+178,Keighley,53.866566,-1.909438,WheelchairAccess,AudioCashMachine,Both,#27AE60
+179,Skipton,53.960754,-2.016546,WheelchairAccess,AudioCashMachine,Both,#27AE60
+180,"Exeter, High Street",50.725397,-3.527859,WheelchairAccess,AudioCashMachine,Both,#27AE60
+181,Exeter Business Park,50.727745,-3.471668,WheelchairAccess,AudioCashMachine,Both,#27AE60
+182,Sidmouth,50.678757,-3.237528,WheelchairAccess,AudioCashMachine,Both,#27AE60
+183,Formby,53.556824,-3.062553,WheelchairAccess,AudioCashMachine,Both,#27AE60
+184,St Annes-On-Sea,53.752125,-3.031049,None,None,None,#E74C3C
+185,"Southport, Lord Street",53.64867,-3.00595,None,None,None,#E74C3C
+186,Ilkley,53.924359,-1.822522,WheelchairAccess,AudioCashMachine,Both,#27AE60
+187,"Sunderland, The Bridges",54.905788,-1.384668,WheelchairAccess,AudioCashMachine,Both,#27AE60
+188,Banbury,52.06208,-1.335049,WheelchairAccess,AudioCashMachine,Both,#27AE60
+189,Devizes,51.352188,-1.995083,WheelchairAccess,AudioCashMachine,Both,#27AE60
+190,Leighton Buzzard,51.916088,-0.661994,WheelchairAccess,AudioCashMachine,Both,#27AE60
+191,Liskeard,50.453953,-4.465295,None,None,None,#E74C3C
+192,Selby,53.783585,-1.068807,WheelchairAccess,None,Wheelchair Only,#003FF6
+193,Penrith,54.663998,-2.752689,WheelchairAccess,AudioCashMachine,Both,#27AE60
+194,Morpeth,55.167374,-1.690852,WheelchairAccess,AudioCashMachine,Both,#27AE60
+195,Ruthin,53.114544,-3.310255,WheelchairAccess,AudioCashMachine,Both,#27AE60
+196,"Cambridge, City Office",52.204697,0.122863,WheelchairAccess,AudioCashMachine,Both,#27AE60
+197,"Cambridge, Hills Road",52.196439,0.129708,WheelchairAccess,AudioCashMachine,Both,#27AE60
+198,Lewes,50.87249,0.009279,None,None,None,#E74C3C
+199,Harlow,51.7695422,0.0944171,WheelchairAccess,None,Wheelchair Only,#003FF6
+200,Royal Tunbridge Wells,51.133894,0.263477,WheelchairAccess,AudioCashMachine,Both,#27AE60
+201,Bridgwater,51.128399,-3.00265,WheelchairAccess,AudioCashMachine,Both,#27AE60
+202,Dolgellau,52.742542,-3.8853,None,None,None,#E74C3C
+203,"Cheltenham, Promenade",51.9007316,-2.0750213,None,None,None,#E74C3C
+204,Portadown,54.422269,-6.440553,WheelchairAccess,AudioCashMachine,Both,#27AE60
+205,Londonderry,54.996071,-7.321966,WheelchairAccess,AudioCashMachine,Both,#27AE60
+206,"Colchester, High Street",51.8894,0.898717,WheelchairAccess,AudioCashMachine,Both,#27AE60
+207,"Colchester, North Station Road",51.895153,0.895526,WheelchairAccess,AudioCashMachine,Both,#27AE60
+208,Spalding,52.786751,-0.15138,WheelchairAccess,AudioCashMachine,Both,#27AE60
+209,Bury St Edmunds,52.244545,0.713228,WheelchairAccess,AudioCashMachine,Both,#27AE60
+210,Settle,54.068523,-2.276278,WheelchairAccess,AudioCashMachine,Both,#27AE60
+211,Falkirk,55.999668,-3.785423,WheelchairAccess,AudioCashMachine,Both,#27AE60
+212,Retford,53.321537,-0.942022,WheelchairAccess,AudioCashMachine,Both,#27AE60
+213,"Northampton, Abington Street",52.237844,-0.89449,WheelchairAccess,AudioCashMachine,Both,#27AE60
+214,Stamford,52.651892,-0.480061,None,None,None,#E74C3C
+215,Shaftesbury,51.006111,-2.197681,WheelchairAccess,AudioCashMachine,Both,#27AE60
+216,Malvern,52.111782,-2.329679,WheelchairAccess,AudioCashMachine,Both,#27AE60
+217,"Warrington, Bridge Street",53.388885,-2.592992,WheelchairAccess,AudioCashMachine,Both,#27AE60
+218,Cannock,52.689602,-2.030848,WheelchairAccess,AudioCashMachine,Both,#27AE60
+219,Stafford,52.80695,-2.117238,WheelchairAccess,AudioCashMachine,Both,#27AE60
+220,"Jersey, St Helier, Halkett St",49.1848241,-2.1036673,WheelchairAccess,AudioCashMachine,Both,#27AE60
+221,"Jersey, St Helier, King St",49.1846615,-2.1072793,WheelchairAccess,AudioCashMachine,Both,#27AE60
+222,"Jersey, Five Oaks",49.201732,-2.065708,WheelchairAccess,AudioCashMachine,Both,#27AE60
+223,Chorley,53.653526,-2.632953,WheelchairAccess,AudioCashMachine,Both,#27AE60
+224,Leyland,53.695343,-2.693994,WheelchairAccess,AudioCashMachine,Both,#27AE60
+225,"Wigan, Grand Arcade",53.546391,-2.628832,WheelchairAccess,AudioCashMachine,Both,#27AE60
+226,Evesham,52.092117,-1.946153,None,None,None,#E74C3C
+227,Welshpool,52.659416,-3.147447,WheelchairAccess,AudioCashMachine,Both,#27AE60
+228,"Hull, Holderness Road",53.764408,-0.292466,WheelchairAccess,AudioCashMachine,Both,#27AE60
+229,"Hull, Jameson Street",53.744881,-0.342618,WheelchairAccess,AudioCashMachine,Both,#27AE60
+230,"Gloucester, The Cross",51.865559,-2.245763,WheelchairAccess,AudioCashMachine,Both,#27AE60
+231,Stroud,51.74535,-2.218141,WheelchairAccess,AudioCashMachine,Both,#27AE60
+232,Altrincham,53.386696,-2.34882,WheelchairAccess,AudioCashMachine,Both,#27AE60
+233,"Bolton, Victoria Square",53.57872,-2.429434,WheelchairAccess,AudioCashMachine,Both,#27AE60
+234,"Manchester, Chorlton-Cum-Hardy",53.442295,-2.277284,WheelchairAccess,AudioCashMachine,Both,#27AE60
+235,"Manchester, Trafford Park",53.46669,-2.3151102,WheelchairAccess,AudioCashMachine,Both,#27AE60
+236,"York, Parliament St",53.958887,-1.081433,WheelchairAccess,AudioCashMachine,Both,#27AE60
+237,Northallerton,54.339195,-1.434376,WheelchairAccess,AudioCashMachine,Both,#27AE60
+238,Thirsk,54.233257,-1.341537,WheelchairAccess,AudioCashMachine,Both,#27AE60
+239,Rugby,52.373177,-1.260558,WheelchairAccess,AudioCashMachine,Both,#27AE60
+240,Abingdon,51.669979,-1.282277,WheelchairAccess,None,Wheelchair Only,#003FF6
+241,Didcot,51.606567,-1.243111,WheelchairAccess,AudioCashMachine,Both,#27AE60
+242,Tewkesbury,51.993488,-2.157449,WheelchairAccess,AudioCashMachine,Both,#27AE60
+243,Llandudno,53.324051,-3.830003,WheelchairAccess,AudioCashMachine,Both,#27AE60
+244,Kingston Eden Street,51.410065,-0.302056,WheelchairAccess,AudioCashMachine,Both,#27AE60
+245,Chiswick,51.4925,-0.267088,WheelchairAccess,AudioCashMachine,Both,#27AE60
+246,Ealing Broadway,51.513714,-0.302298,WheelchairAccess,AudioCashMachine,Both,#27AE60
+247,Golders Green,51.572022,-0.195786,None,None,None,#E74C3C
+248,Hammersmith,51.492874,-0.226391,WheelchairAccess,AudioCashMachine,Both,#27AE60
+249,Kilburn,51.537697,-0.192682,WheelchairAccess,AudioCashMachine,Both,#27AE60
+250,Kingsbury,51.585674,-0.277792,WheelchairAccess,AudioCashMachine,Both,#27AE60
+251,Notting Hill Gate,51.509148,-0.194634,WheelchairAccess,AudioCashMachine,Both,#27AE60
+252,Putney,51.460517,-0.215014,WheelchairAccess,AudioCashMachine,Both,#27AE60
+253,Fulham Broadway,51.480228,-0.19749,WheelchairAccess,AudioCashMachine,Both,#27AE60
+254,Wandsworth,51.456578,-0.192612,WheelchairAccess,AudioCashMachine,Both,#27AE60
+255,Wimbledon,51.421464,-0.207405,WheelchairAccess,AudioCashMachine,Both,#27AE60
+256,"Hounslow, High Street",51.469433,-0.358798,WheelchairAccess,AudioCashMachine,Both,#27AE60
+257,Kingston Clarence Street,51.410526,-0.30178,WheelchairAccess,AudioCashMachine,Both,#27AE60
+258,New Malden,51.401436,-0.255652,WheelchairAccess,AudioCashMachine,Both,#27AE60
+259,"Richmond, Surrey",51.460411,-0.305558,WheelchairAccess,AudioCashMachine,Both,#27AE60
+260,Surbiton,51.393162,-0.304766,None,None,None,#E74C3C
+261,Twickenham,51.446982,-0.328172,WheelchairAccess,None,Wheelchair Only,#003FF6
+262,Kendal,54.3263732,-2.747673,WheelchairAccess,AudioCashMachine,Both,#27AE60
+263,"Bridlington, King Street",54.082695,-0.191796,WheelchairAccess,AudioCashMachine,Both,#27AE60
+264,"Hull, Merit House",53.720669,-0.426472,WheelchairAccess,AudioCashMachine,Both,#27AE60
+265,Amersham-On-The-Hill,51.678196,-0.605261,WheelchairAccess,None,Wheelchair Only,#003FF6
+266,Beaconsfield,51.612846,-0.647878,WheelchairAccess,AudioCashMachine,Both,#27AE60
+267,"Watford, High Street",51.655441,-0.395689,WheelchairAccess,AudioCashMachine,Both,#27AE60
+268,Cleveleys,53.877171,-3.040314,WheelchairAccess,AudioCashMachine,Both,#27AE60
+269,Lancaster,54.048515,-2.80165,WheelchairAccess,None,Wheelchair Only,#003FF6
+270,Kenilworth,52.342495,-1.579404,WheelchairAccess,AudioCashMachine,Both,#27AE60
+271,Stratford-Upon-Avon,52.191463,-1.70747,WheelchairAccess,AudioCashMachine,Both,#27AE60
+272,"Bradford, Market Street",53.793885,-1.752111,WheelchairAccess,AudioCashMachine,Both,#27AE60
+273,Brighouse,53.701317,-1.781331,WheelchairAccess,AudioCashMachine,Both,#27AE60
+274,Cleckheaton,53.725117,-1.711629,WheelchairAccess,AudioCashMachine,Both,#27AE60
+275,"Huddersfield, Cloth Hall Street",53.646033,-1.782894,WheelchairAccess,AudioCashMachine,Both,#27AE60
+276,Shipley,53.832825,-1.778809,WheelchairAccess,AudioCashMachine,Both,#27AE60
+277,Salisbury,51.069298,-1.796516,WheelchairAccess,None,Wheelchair Only,#003FF6
+278,Dewsbury,53.691895,-1.629474,WheelchairAccess,AudioCashMachine,Both,#27AE60
+279,Morley,53.746029,-1.601432,WheelchairAccess,AudioCashMachine,Both,#27AE60
+280,Wakefield,53.682377,-1.501025,WheelchairAccess,AudioCashMachine,Both,#27AE60
+281,Shotton,53.212536,-3.040715,WheelchairAccess,AudioCashMachine,Both,#27AE60
+282,Bromborough,53.33236,-2.977549,WheelchairAccess,AudioCashMachine,Both,#27AE60
+283,"Chester, Eastgate Street",53.190837,-2.889101,WheelchairAccess,AudioCashMachine,Both,#27AE60
+284,Ellesmere Port,53.278511,-2.90269,WheelchairAccess,AudioCashMachine,Both,#27AE60
+285,Runcorn,53.34148,-2.734478,WheelchairAccess,AudioCashMachine,Both,#27AE60
+286,"Birmingham, King's Heath",52.435074,-1.893124,None,None,None,#E74C3C
+287,"Birmingham, New Street",52.478929,-1.897804,WheelchairAccess,AudioCashMachine,Both,#27AE60
+288,"Birmingham, Jewellery Quarter",52.48716,-1.912864,WheelchairAccess,AudioCashMachine,Both,#27AE60
+289,"Birmingham, 1 Centenary Square, Parliament St",52.478866,-1.906925,WheelchairAccess,AudioCashMachine,Both,#27AE60
+290,"Shirley, West Midlands",52.409946,-1.825487,WheelchairAccess,AudioCashMachine,Both,#27AE60
+291,Solihull,52.414638,-1.779076,WheelchairAccess,AudioCashMachine,Both,#27AE60
+292,"Guildford, North Street",51.236988,-0.573162,WheelchairAccess,AudioCashMachine,Both,#27AE60
+293,Barrow-In-Furness,54.113541,-3.230338,WheelchairAccess,None,Wheelchair Only,#003FF6
+294,Aldershot,51.249268,-0.764225,WheelchairAccess,None,Wheelchair Only,#003FF6
+295,Farnham,51.215065,-0.798506,WheelchairAccess,AudioCashMachine,Both,#27AE60
+296,Fleet,51.281227,-0.841726,WheelchairAccess,AudioCashMachine,Both,#27AE60
+297,Farnborough,51.291982,-0.75847,WheelchairAccess,AudioCashMachine,Both,#27AE60
+298,Ormskirk,53.567432,-2.885413,None,None,None,#E74C3C
+299,St Helens,53.453739,-2.7392,WheelchairAccess,AudioCashMachine,Both,#27AE60
+300,Doncaster,53.52383,-1.13512,WheelchairAccess,AudioCashMachine,Both,#27AE60
+301,Stirling,56.1177382,-3.9362711,WheelchairAccess,AudioCashMachine,Both,#27AE60
+302,"Swindon, Canal Walk",51.561237,-1.786425,WheelchairAccess,AudioCashMachine,Both,#27AE60
+303,Saxmundham,52.214478,1.492666,WheelchairAccess,AudioCashMachine,Both,#27AE60
+304,Cromer,52.930557,1.302237,WheelchairAccess,AudioCashMachine,Both,#27AE60
+305,"Leeds, Horsforth",53.839135,-1.6388442,WheelchairAccess,AudioCashMachine,Both,#27AE60
+306,"Leeds, Chapel Allerton",53.8289674,-1.5377457,WheelchairAccess,AudioCashMachine,Both,#27AE60
+307,"Leeds, City Office",53.797781,-1.547274,WheelchairAccess,AudioCashMachine,Both,#27AE60
+308,"Leeds, Cross Gates",53.806015,-1.450958,WheelchairAccess,AudioCashMachine,Both,#27AE60
+309,Newbury,51.404751,-1.324395,WheelchairAccess,AudioCashMachine,Both,#27AE60
+310,Clacton-On-Sea,51.790352,1.153083,WheelchairAccess,AudioCashMachine,Both,#27AE60
+311,Ashby-De-La-Zouch,52.747297,-1.470588,WheelchairAccess,AudioCashMachine,Both,#27AE60
+312,"Burton-On-Trent, High Street",52.802368,-1.630577,WheelchairAccess,AudioCashMachine,Both,#27AE60
+313,Swadlincote,52.77351,-1.555817,WheelchairAccess,AudioCashMachine,Both,#27AE60
+314,Hitchin,51.947764,-0.278765,WheelchairAccess,AudioCashMachine,Both,#27AE60
+315,Letchworth,51.97953,-0.227971,WheelchairAccess,AudioCashMachine,Both,#27AE60
+316,Stevenage,51.901176,-0.203234,WheelchairAccess,AudioCashMachine,Both,#27AE60
+317,"Sudbury, Suffolk",52.038113,0.729548,None,None,None,#E74C3C
+318,Telford,52.6760153,-2.4464659,WheelchairAccess,AudioCashMachine,Both,#27AE60
+319,Camberley,51.338466,-0.744462,WheelchairAccess,AudioCashMachine,Both,#27AE60
+320,Godalming,51.185661,-0.615327,WheelchairAccess,AudioCashMachine,Both,#27AE60
+321,Woking,51.318245,-0.559349,WheelchairAccess,AudioCashMachine,Both,#27AE60
+322,Wisbech,52.665363,0.157723,None,None,None,#E74C3C
+323,Hexham,54.970192,-2.100707,None,None,None,#E74C3C
+324,Grantham,52.911892,-0.64411,WheelchairAccess,AudioCashMachine,Both,#27AE60
+325,Cirencester,51.716797,-1.96818,None,None,None,#E74C3C
+326,Chelmsford High Street,51.734421,0.472796,WheelchairAccess,AudioCashMachine,Both,#27AE60
+327,"Clevedon, Triangle",51.435982,-2.852818,WheelchairAccess,AudioCashMachine,Both,#27AE60
+328,Portishead,51.484398,-2.768727,WheelchairAccess,AudioCashMachine,Both,#27AE60
+329,Bala,52.910484,-3.597937,WheelchairAccess,AudioCashMachine,Both,#27AE60
+330,"Hampstead, Finchley Road",51.547264,-0.179395,WheelchairAccess,None,Wheelchair Only,#003FF6
+331,Hampstead High Street,51.555656,-0.175439,WheelchairAccess,AudioCashMachine,Both,#27AE60
+332,Muswell Hill,51.590001,-0.143975,WheelchairAccess,AudioCashMachine,Both,#27AE60
+333,North Finchley,51.615643,-0.177122,WheelchairAccess,AudioCashMachine,Both,#27AE60
+334,Palmers Green,51.617569,-0.109557,WheelchairAccess,AudioCashMachine,Both,#27AE60
+335,Southgate,51.63237,-0.126788,WheelchairAccess,AudioCashMachine,Both,#27AE60
+336,Barnet,51.65519,-0.201399,WheelchairAccess,AudioCashMachine,Both,#27AE60
+337,Borehamwood & Elstree,51.656757,-0.277759,WheelchairAccess,AudioCashMachine,Both,#27AE60
+338,Edgware,51.613659,-0.276588,WheelchairAccess,AudioCashMachine,Both,#27AE60
+339,Harrow,51.581604,-0.335304,WheelchairAccess,AudioCashMachine,Both,#27AE60
+340,Wembley,51.552258,-0.299306,WheelchairAccess,AudioCashMachine,Both,#27AE60
+341,Coalville,52.724545,-1.371499,WheelchairAccess,AudioCashMachine,Both,#27AE60
+342,Loughborough,52.770985,-1.206243,WheelchairAccess,AudioCashMachine,Both,#27AE60
+343,Sleaford,52.999332,-0.410593,None,None,None,#E74C3C
+344,Sittingbourne,51.340122,0.734344,WheelchairAccess,AudioCashMachine,Both,#27AE60
+345,"Birmingham, Harborne",52.459038,-1.947867,WheelchairAccess,AudioCashMachine,Both,#27AE60
+346,"Birmingham, Northfield",52.415272,-1.970576,WheelchairAccess,AudioCashMachine,Both,#27AE60
+347,Redditch,52.30761,-1.941552,WheelchairAccess,AudioCashMachine,Both,#27AE60
+348,Harrogate,53.992889,-1.540906,WheelchairAccess,AudioCashMachine,Both,#27AE60
+349,Wetherby,53.929138,-1.385563,None,None,None,#E74C3C
+350,"Chatham, 231 High Street",51.381691,0.527317,WheelchairAccess,AudioCashMachine,Both,#27AE60
+351,"Gillingham, High Street",51.387224,0.545427,WheelchairAccess,AudioCashMachine,Both,#27AE60
+352,Strood,51.395981,0.49465,WheelchairAccess,AudioCashMachine,Both,#27AE60
+353,Hereford,52.056561,-2.716771,WheelchairAccess,AudioCashMachine,Both,#27AE60
+354,Leominster,52.228035,-2.73912,WheelchairAccess,AudioCashMachine,Both,#27AE60
+355,Wokingham,51.410478,-0.834085,WheelchairAccess,AudioCashMachine,Both,#27AE60
+356,"Woodley, Berkshire",51.452904,-0.905203,WheelchairAccess,AudioCashMachine,Both,#27AE60
+357,Daventry,52.257111,-1.162338,WheelchairAccess,AudioCashMachine,Both,#27AE60
+358,Ripon,54.136047,-1.524769,WheelchairAccess,AudioCashMachine,Both,#27AE60
+359,Inverness,57.477829,-4.223354,WheelchairAccess,AudioCashMachine,Both,#27AE60
+360,Newark,53.075954,-0.80839,WheelchairAccess,AudioCashMachine,Both,#27AE60
+361,"Scunthorpe, High Street",53.592064,-0.647136,WheelchairAccess,AudioCashMachine,Both,#27AE60
+362,Dover,51.1269,1.311455,WheelchairAccess,AudioCashMachine,Both,#27AE60
+363,Folkestone,51.079247,1.179986,WheelchairAccess,AudioCashMachine,Both,#27AE60
+364,Haywards Heath,50.996535,-0.101654,WheelchairAccess,AudioCashMachine,Both,#27AE60
+365,Burgess Hill,50.95565,-0.130366,WheelchairAccess,AudioCashMachine,Both,#27AE60
+366,"Rotherham, College Street",53.43108,-1.354823,WheelchairAccess,AudioCashMachine,Both,#27AE60
+367,"Sheffield, Darnall",53.386105,-1.411418,WheelchairAccess,AudioCashMachine,Both,#27AE60
+368,"Sheffield, Meadowhall",53.41372,-1.411886,WheelchairAccess,AudioCashMachine,Both,#27AE60
+369,Honiton,50.799252,-3.189255,WheelchairAccess,AudioCashMachine,Both,#27AE60
+370,"Brighton, Ditchling Road",50.844296,-0.135137,WheelchairAccess,AudioCashMachine,Both,#27AE60
+371,"Brighton, North Street",50.823132,-0.140617,WheelchairAccess,AudioCashMachine,Both,#27AE60
+372,"Hove, Church Road",50.82814,-0.172171,WheelchairAccess,AudioCashMachine,Both,#27AE60
+373,Maidstone,51.274198,0.522831,WheelchairAccess,AudioCashMachine,Both,#27AE60
+374,Westwood Cross,51.359493,1.392941,WheelchairAccess,AudioCashMachine,Both,#27AE60
+375,"Crawley, The Boulevard",51.11692,-0.18756,WheelchairAccess,AudioCashMachine,Both,#27AE60
+376,East Grinstead,51.125117,-0.008871,WheelchairAccess,AudioCashMachine,Both,#27AE60
+377,Alderney,49.71517,-2.204314,None,None,None,#E74C3C
+378,"Carlisle, City Office",54.893533,-2.934584,WheelchairAccess,AudioCashMachine,Both,#27AE60
+379,Hinckley,52.540722,-1.372977,WheelchairAccess,AudioCashMachine,Both,#27AE60
+380,"Leicester, Belgrave Road",52.649776,-1.122801,WheelchairAccess,AudioCashMachine,Both,#27AE60
+381,"Leicester, Clock Tower",52.635399,-1.131698,WheelchairAccess,AudioCashMachine,Both,#27AE60
+382,"Leicester, Hinckley Road",52.631214,-1.1483,WheelchairAccess,AudioCashMachine,Both,#27AE60
+383,Rayleigh,51.587002,0.605916,WheelchairAccess,AudioCashMachine,Both,#27AE60
+384,Southend-On-Sea,51.54052,0.711125,WheelchairAccess,AudioCashMachine,Both,#27AE60
+385,Lampeter,52.113026,-4.078337,None,None,None,#E74C3C
+386,Basildon,51.570686,0.457693,WheelchairAccess,AudioCashMachine,Both,#27AE60
+387,Eastleigh,50.96904,-1.351284,WheelchairAccess,AudioCashMachine,Both,#27AE60
+388,"Hythe, Hampshire",50.869774,-1.399005,WheelchairAccess,AudioCashMachine,Both,#27AE60
+389,Park Gate,50.872807,-1.268204,WheelchairAccess,AudioCashMachine,Both,#27AE60
+390,Southampton City,50.904683,-1.404102,WheelchairAccess,AudioCashMachine,Both,#27AE60
+391,Tavistock,50.550343,-4.144841,None,None,None,#E74C3C
+392,Bexleyheath,51.457291,0.138885,WheelchairAccess,None,Wheelchair Only,#003FF6
+393,Dartford,51.444485,0.218547,WheelchairAccess,AudioCashMachine,Both,#27AE60
+394,Gravesend,51.442351,0.368551,WheelchairAccess,AudioCashMachine,Both,#27AE60
+395,"Lakeside, Thurrock",51.487061,0.283086,WheelchairAccess,AudioCashMachine,Both,#27AE60
+396,Newmarket,52.244102,0.406688,WheelchairAccess,AudioCashMachine,Both,#27AE60
+397,Fenchurch Street,51.512043,-0.079615,WheelchairAccess,AudioCashMachine,Both,#27AE60
+398,Balham,51.444916,-0.151306,WheelchairAccess,AudioCashMachine,Both,#27AE60
+399,Belgravia,51.495963,-0.142787,WheelchairAccess,AudioCashMachine,Both,#27AE60
+400,Brixton,51.461502,-0.116014,WheelchairAccess,AudioCashMachine,Both,#27AE60
+401,Catford,51.445652,-0.019139,WheelchairAccess,AudioCashMachine,Both,#27AE60
+402,Charing Cross,51.508393,-0.126372,WheelchairAccess,AudioCashMachine,Both,#27AE60
+403,Clapham Junction,51.4641,-0.165834,WheelchairAccess,AudioCashMachine,Both,#27AE60
+404,Bishopsgate,51.513216,-0.084028,WheelchairAccess,AudioCashMachine,Both,#27AE60
+405,"Canary Wharf, Canada Place",51.504463,-0.017454,WheelchairAccess,AudioCashMachine,Both,#27AE60
+406,"Canary Wharf, Jubilee Place",51.503078,-0.018595,WheelchairAccess,AudioCashMachine,Both,#27AE60
+407,Gerrard Street,51.511723,-0.131597,WheelchairAccess,AudioCashMachine,Both,#27AE60
+408,Covent Garden,51.511333,-0.124782,WheelchairAccess,AudioCashMachine,Both,#27AE60
+409,Knightsbridge,51.499396,-0.164501,WheelchairAccess,AudioCashMachine,Both,#27AE60
+410,Lewisham,51.462254,-0.009624,WheelchairAccess,AudioCashMachine,Both,#27AE60
+411,New Bond Street,51.51231,-0.144731,WheelchairAccess,AudioCashMachine,Both,#27AE60
+412,Pall Mall,51.50544,-0.136854,WheelchairAccess,AudioCashMachine,Both,#27AE60
+413,Peckham,51.472145,-0.069397,WheelchairAccess,AudioCashMachine,Both,#27AE60
+414,"Piccadilly, London",51.506771,-0.143198,WheelchairAccess,AudioCashMachine,Both,#27AE60
+415,Kings Road,51.490989,-0.161213,WheelchairAccess,AudioCashMachine,Both,#27AE60
+416,Gloucester Road,51.494181,-0.182244,WheelchairAccess,AudioCashMachine,Both,#27AE60
+417,London Bridge,51.504631,-0.090604,WheelchairAccess,AudioCashMachine,Both,#27AE60
+418,Fleet Street,51.5143012,-0.1084029,WheelchairAccess,AudioCashMachine,Both,#27AE60
+419,Streatham Hill,51.438633,-0.126063,WheelchairAccess,AudioCashMachine,Both,#27AE60
+420,Surrey Quays,51.495398,-0.046964,WheelchairAccess,AudioCashMachine,Both,#27AE60
+421,Tooting Broadway,51.427799,-0.16854,WheelchairAccess,AudioCashMachine,Both,#27AE60
+422,Beckenham,51.406574,-0.028118,WheelchairAccess,AudioCashMachine,Both,#27AE60
+423,City of London,51.51302,-0.09204,WheelchairAccess,AudioCashMachine,Both,#27AE60
+424,"Sutton, Town Square",51.362362,-0.192827,WheelchairAccess,AudioCashMachine,Both,#27AE60
+425,Wallington,51.359241,-0.150118,WheelchairAccess,AudioCashMachine,Both,#27AE60
+426,"Croydon, North End",51.377373,-0.102514,WheelchairAccess,AudioCashMachine,Both,#27AE60
+427,Alton,51.147766,-0.977089,None,None,None,#E74C3C
+428,Lymington,50.758678,-1.54121,WheelchairAccess,AudioCashMachine,Both,#27AE60
+429,New Milton,50.752205,-1.654153,WheelchairAccess,AudioCashMachine,Both,#27AE60
+430,Minehead,51.205448,-3.479388,WheelchairAccess,AudioCashMachine,Both,#27AE60
+431,Market Bosworth,52.623619,-1.401486,WheelchairAccess,AudioCashMachine,Both,#27AE60
+432,Nailsea,51.432667,-2.759439,WheelchairAccess,AudioCashMachine,Both,#27AE60
+433,Weston-Super-Mare,51.347767,-2.97847,WheelchairAccess,AudioCashMachine,Both,#27AE60
+434,Blandford Forum,50.856143,-2.16501,WheelchairAccess,AudioCashMachine,Both,#27AE60
+435,Kings Lynn,52.7535453,0.396757,WheelchairAccess,AudioCashMachine,Both,#27AE60
+436,Crewe,53.09745,-2.441007,WheelchairAccess,AudioCashMachine,Both,#27AE60
+437,Felixstowe,51.96289,1.351677,WheelchairAccess,AudioCashMachine,Both,#27AE60
+438,Whitby,54.486366,-0.613599,WheelchairAccess,AudioCashMachine,Both,#27AE60
+439,Aberystwyth,52.414738,-4.084735,WheelchairAccess,None,Wheelchair Only,#003FF6
+440,"Aylesbury, Market Square",51.816574,-0.81259,WheelchairAccess,AudioCashMachine,Both,#27AE60
+441,Darlington,54.526325,-1.555061,WheelchairAccess,AudioCashMachine,Both,#27AE60
+442,Chesterfield,53.23587,-1.428987,WheelchairAccess,AudioCashMachine,Both,#27AE60
+443,"Norwich, London Street",52.628899,1.294226,WheelchairAccess,AudioCashMachine,Both,#27AE60
+444,"Norwich, Mile Cross Lane",52.657307,1.281913,WheelchairAccess,AudioCashMachine,Both,#27AE60
+445,Wymondham,52.570431,1.11323,WheelchairAccess,AudioCashMachine,Both,#27AE60
+446,Grimsby,53.565788,-0.08508,WheelchairAccess,AudioCashMachine,Both,#27AE60
+447,Oswestry,52.859062,-3.055763,WheelchairAccess,AudioCashMachine,Both,#27AE60
+448,Barnstaple,51.079411,-4.059352,WheelchairAccess,AudioCashMachine,Both,#27AE60
+449,Bideford,51.018631,-4.204827,WheelchairAccess,AudioCashMachine,Both,#27AE60
+450,Plymouth Commercial Centre,50.411334,-4.120198,WheelchairAccess,AudioCashMachine,Both,#27AE60
+451,Banstead,51.323273,-0.199629,WheelchairAccess,AudioCashMachine,Both,#27AE60
+452,Epsom,51.333684,-0.266366,WheelchairAccess,AudioCashMachine,Both,#27AE60
+453,Leatherhead,51.295628,-0.329747,WheelchairAccess,AudioCashMachine,Both,#27AE60
+454,Halifax,53.722847,-1.861888,WheelchairAccess,AudioCashMachine,Both,#27AE60
+455,Arnold,53.004445,-1.127083,WheelchairAccess,AudioCashMachine,Both,#27AE60
+456,Mansfield,53.14468,-1.195949,WheelchairAccess,AudioCashMachine,Both,#27AE60
+457,Fakenham,52.830173,0.847881,None,None,None,#E74C3C
+458,Peterborough,52.572273,-0.242433,WheelchairAccess,AudioCashMachine,Both,#27AE60
+459,Launceston,50.636864,-4.361104,None,None,None,#E74C3C
+460,Ringwood,50.846157,-1.79253,WheelchairAccess,AudioCashMachine,Both,#27AE60
+461,Stowmarket,52.187729,0.994838,WheelchairAccess,AudioCashMachine,Both,#27AE60
+462,Yate,51.540714,-2.4131,WheelchairAccess,AudioCashMachine,Both,#27AE60
+463,Malton,54.135902,-0.798978,WheelchairAccess,AudioCashMachine,Both,#27AE60
+464,Abergavenny,51.822909,-3.019173,WheelchairAccess,None,Wheelchair Only,#003FF6
+465,Paignton,50.43586,-3.56804,WheelchairAccess,AudioCashMachine,Both,#27AE60
+466,"Torquay, Strand",50.462067,-3.524877,WheelchairAccess,AudioCashMachine,Both,#27AE60
+467,Whitehaven,54.547604,-3.586892,None,None,None,#E74C3C
+468,Workington,54.644293,-3.545636,WheelchairAccess,AudioCashMachine,Both,#27AE60
+469,"Basingstoke, Town Centre",51.264851,-1.087792,WheelchairAccess,AudioCashMachine,Both,#27AE60
+470,Wigston Magna,52.586062,-1.106161,WheelchairAccess,AudioCashMachine,Both,#27AE60
+471,Worksop,53.304276,-1.124253,WheelchairAccess,AudioCashMachine,Both,#27AE60
+472,Tenby,51.671757,-4.698554,WheelchairAccess,AudioCashMachine,Both,#27AE60
+473,Goole,53.704674,-0.872697,WheelchairAccess,AudioCashMachine,Both,#27AE60
+474,"Newport, Shropshire",52.769249,-2.378796,WheelchairAccess,AudioCashMachine,Both,#27AE60
+475,Thame,51.746509,-0.977147,WheelchairAccess,AudioCashMachine,Both,#27AE60
+476,Aberdeen,57.146605,-2.098131,WheelchairAccess,None,Wheelchair Only,#003FF6
+477,Wrexham,53.046631,-2.996186,WheelchairAccess,AudioCashMachine,Both,#27AE60
+478,Dereham,52.680744,0.940922,WheelchairAccess,AudioCashMachine,Both,#27AE60
+479,Billericay,51.624752,0.416575,WheelchairAccess,AudioCashMachine,Both,#27AE60
+480,Brentwood,51.620274,0.300588,WheelchairAccess,AudioCashMachine,Both,#27AE60
+481,Hornchurch,51.561832,0.22147,WheelchairAccess,AudioCashMachine,Both,#27AE60
+482,"Scarborough, St Nicholas Street",54.28212,-0.399131,WheelchairAccess,AudioCashMachine,Both,#27AE60
+483,Diss,52.377518,1.108599,WheelchairAccess,AudioCashMachine,Both,#27AE60
+484,Bridport,50.733685,-2.757017,None,None,None,#E74C3C
+485,Leamington Spa,52.289326,-1.535984,WheelchairAccess,AudioCashMachine,Both,#27AE60
+486,Hanley,53.02565,-2.175873,WheelchairAccess,AudioCashMachine,Both,#27AE60
+487,Newcastle-Under-Lyme,53.010651,-2.227589,WheelchairAccess,AudioCashMachine,Both,#27AE60
+488,Neath,51.66209,-3.806037,WheelchairAccess,AudioCashMachine,Both,#27AE60
+489,Falmouth,50.155148,-5.06889,WheelchairAccess,AudioCashMachine,Both,#27AE60
+490,Monmouth,51.812138,-2.715773,None,None,None,#E74C3C
+491,Dumfries,55.0672641,-3.6098682,WheelchairAccess,AudioCashMachine,Both,#27AE60
+492,Taunton,51.016441,-3.103605,WheelchairAccess,None,Wheelchair Only,#003FF6
+493,Bishops Stortford,51.87196,0.159002,WheelchairAccess,AudioCashMachine,Both,#27AE60
+494,Denbigh,53.184189,-3.418392,None,None,None,#E74C3C
+495,Prestatyn,53.335587,-3.404864,WheelchairAccess,AudioCashMachine,Both,#27AE60
+496,Bexhill-On-Sea,50.840207,0.473316,WheelchairAccess,AudioCashMachine,Both,#27AE60
+497,Hertford,51.796081,-0.077189,None,None,None,#E74C3C
+498,Uckfield,50.9704682,0.0963996,WheelchairAccess,AudioCashMachine,Both,#27AE60
+499,Congleton,53.163025,-2.211494,WheelchairAccess,AudioCashMachine,Both,#27AE60
+500,Macclesfield,53.2596392,-2.1272832,WheelchairAccess,AudioCashMachine,Both,#27AE60
+501,Colwyn Bay,53.295097,-3.728112,WheelchairAccess,AudioCashMachine,Both,#27AE60
+502,Rhyl,53.319614,-3.490798,WheelchairAccess,AudioCashMachine,Both,#27AE60
+503,Porthmadog,52.926109,-4.130639,WheelchairAccess,AudioCashMachine,Both,#27AE60
+504,Pwllheli,52.889755,-4.416358,WheelchairAccess,AudioCashMachine,Both,#27AE60
+505,Cardigan,52.082924,-4.661484,WheelchairAccess,AudioCashMachine,Both,#27AE60
+506,Blackburn,53.74799,-2.481065,WheelchairAccess,AudioCashMachine,Both,#27AE60
+507,"Bury, Lancashire",53.593262,-2.298064,WheelchairAccess,AudioCashMachine,Both,#27AE60
+508,Dundee,56.4623011,-2.9686021,WheelchairAccess,AudioCashMachine,Both,#27AE60
+509,Bedford,52.137329,-0.470622,WheelchairAccess,AudioCashMachine,Both,#27AE60
+510,Merthyr Tydfil,51.744701,-3.378585,WheelchairAccess,AudioCashMachine,Both,#27AE60
+511,Storrington,50.917816,-0.452296,WheelchairAccess,AudioCashMachine,Both,#27AE60
+512,Holsworthy,50.810371,-4.353492,WheelchairAccess,AudioCashMachine,Both,#27AE60
+513,Barry,51.406065,-3.267953,WheelchairAccess,AudioCashMachine,Both,#27AE60
+514,Penarth,51.437769,-3.173809,WheelchairAccess,AudioCashMachine,Both,#27AE60
+515,Bishop Auckland,54.664417,-1.674309,WheelchairAccess,AudioCashMachine,Both,#27AE60
+516,Durham,54.776741,-1.575032,WheelchairAccess,AudioCashMachine,Both,#27AE60
+517,"Bristol, Cabot Circus",51.45813,-2.58579,WheelchairAccess,AudioCashMachine,Both,#27AE60
+518,"Bristol, Filton",51.501508,-2.579777,WheelchairAccess,AudioCashMachine,Both,#27AE60
+519,"Bristol, Kingswood",51.462603,-2.507801,WheelchairAccess,AudioCashMachine,Both,#27AE60
+520,"Bristol, Downend",51.489094,-2.502867,None,None,None,#E74C3C
+521,Westbury-On-Trym,51.49332,-2.619587,WheelchairAccess,AudioCashMachine,Both,#27AE60
+522,Chepstow,51.642326,-2.67529,WheelchairAccess,None,Wheelchair Only,#003FF6
+523,Keynsham,51.416364,-2.498915,WheelchairAccess,None,Wheelchair Only,#003FF6
+524,Thornbury,51.608348,-2.525844,None,None,None,#E74C3C
+525,"Edinburgh, Hanover Street",55.953869,-3.197914,WheelchairAccess,AudioCashMachine,Both,#27AE60
+526,Berkhamsted,51.760284,-0.565088,WheelchairAccess,AudioCashMachine,Both,#27AE60
+527,St Albans,51.751781,-0.339486,WheelchairAccess,AudioCashMachine,Both,#27AE60
+528,Caerphilly,51.574036,-3.220554,WheelchairAccess,AudioCashMachine,Both,#27AE60
+529,"Cardiff, Canton",51.481388,-3.200955,WheelchairAccess,AudioCashMachine,Both,#27AE60
+530,Pontypridd,51.601048,-3.340745,WheelchairAccess,AudioCashMachine,Both,#27AE60
+531,Cowbridge,51.462372,-3.449622,WheelchairAccess,AudioCashMachine,Both,#27AE60
+532,Talbot Green,51.537758,-3.385269,WheelchairAccess,AudioCashMachine,Both,#27AE60
+533,Sark,49.43511,-2.35624,None,None,None,#E74C3C
+534,"Reading, Broad Street",51.455853,-0.971828,WheelchairAccess,AudioCashMachine,Both,#27AE60
+535,Bramhall,53.355909,-2.165343,None,None,None,#E74C3C
+536,Knutsford,53.30418,-2.374963,WheelchairAccess,AudioCashMachine,Both,#27AE60
+537,Wilmslow,53.327866,-2.229876,WheelchairAccess,AudioCashMachine,Both,#27AE60
+538,"Ramsey, Isle Of Man",54.312607,-4.372138,WheelchairAccess,AudioCashMachine,Both,#27AE60
+539,"Coventry, Cheylesmore",52.394454,-1.506739,WheelchairAccess,AudioCashMachine,Both,#27AE60
+540,"Coventry, Cathedral Lanes",52.407586,-1.509559,WheelchairAccess,AudioCashMachine,Both,#27AE60
+541,Nuneaton,52.522758,-1.468886,WheelchairAccess,AudioCashMachine,Both,#27AE60
+542,Harpenden,51.814758,-0.354581,WheelchairAccess,AudioCashMachine,Both,#27AE60
+543,Hatfield,51.763172,-0.2265,WheelchairAccess,AudioCashMachine,Both,#27AE60
+544,Welwyn Garden City,51.801476,-0.20794,WheelchairAccess,AudioCashMachine,Both,#27AE60
+545,Kingsbridge,50.284782,-3.777907,None,None,None,#E74C3C
+546,Plymouth,50.371204,-4.138479,WheelchairAccess,AudioCashMachine,Both,#27AE60
+547,Corby,52.51955,-0.624126,WheelchairAccess,AudioCashMachine,Both,#27AE60
+548,Kettering,52.398521,-0.728054,WheelchairAccess,AudioCashMachine,Both,#27AE60
+549,Wellingborough,52.301224,-0.692375,WheelchairAccess,AudioCashMachine,Both,#27AE60
+550,Brecon,51.947422,-3.390483,WheelchairAccess,AudioCashMachine,Both,#27AE60
+551,"Worthing, Goring Road",50.813946,-0.401412,WheelchairAccess,AudioCashMachine,Both,#27AE60
+552,"Worthing, Warwick Street",50.811878,-0.369715,WheelchairAccess,AudioCashMachine,Both,#27AE60
+553,"Newport, Gwent, Bridge Street",51.587734,-2.997374,WheelchairAccess,AudioCashMachine,Both,#27AE60
+554,"Belfast, Royal Avenue",54.599335,-5.929947,WheelchairAccess,AudioCashMachine,Both,#27AE60
+555,Great Yarmouth,52.6066757,1.7277571,WheelchairAccess,AudioCashMachine,Both,#27AE60
+556,Haverfordwest,51.801483,-4.969282,WheelchairAccess,AudioCashMachine,Both,#27AE60
+557,Skegness,53.143272,0.338764,WheelchairAccess,AudioCashMachine,Both,#27AE60
+558,Gorseinon,51.669231,-4.041901,WheelchairAccess,AudioCashMachine,Both,#27AE60
+559,Llanelli,51.682728,-4.161031,WheelchairAccess,AudioCashMachine,Both,#27AE60
+560,"Swansea, Portland Street",51.620296,-3.944965,WheelchairAccess,AudioCashMachine,Both,#27AE60
+561,Pocklington,53.930026,-0.779104,WheelchairAccess,None,Wheelchair Only,#003FF6
+562,Lowestoft,52.474491,1.751421,WheelchairAccess,AudioCashMachine,Both,#27AE60
+563,Chippenham,51.458092,-2.115037,WheelchairAccess,AudioCashMachine,Both,#27AE60
+564,Dunstable,51.885757,-0.522591,WheelchairAccess,AudioCashMachine,Both,#27AE60
+565,"Luton, George Street",51.8791989,-0.4165636,WheelchairAccess,None,Wheelchair Only,#003FF6
+566,East Ham,51.536766,0.052486,WheelchairAccess,AudioCashMachine,Both,#27AE60
+567,Eltham,51.450191,0.051422,WheelchairAccess,AudioCashMachine,Both,#27AE60
+568,South Woodford,51.595028,0.023463,WheelchairAccess,AudioCashMachine,Both,#27AE60
+569,Stratford,51.5420984,0.0004051,WheelchairAccess,AudioCashMachine,Both,#27AE60
+570,Woolwich,51.489651,0.066373,WheelchairAccess,AudioCashMachine,Both,#27AE60
+571,Barking,51.537067,0.081224,WheelchairAccess,AudioCashMachine,Both,#27AE60
+572,Barkingside,51.59042,0.082478,WheelchairAccess,AudioCashMachine,Both,#27AE60
+573,"Bromley, Kent",51.405209,0.014253,WheelchairAccess,None,Wheelchair Only,#003FF6
+574,"Ilford, High Road",51.558765,0.073833,WheelchairAccess,AudioCashMachine,Both,#27AE60
+575,Orpington,51.375141,0.099405,WheelchairAccess,AudioCashMachine,Both,#27AE60
+576,Sidcup,51.426613,0.101706,WheelchairAccess,AudioCashMachine,Both,#27AE60
+577,Fareham,50.852772,-1.178091,WheelchairAccess,AudioCashMachine,Both,#27AE60
+578,"Gosport, High Street",50.795624,-1.122282,WheelchairAccess,AudioCashMachine,Both,#27AE60
+579,Barnsley,53.553215,-1.481906,WheelchairAccess,AudioCashMachine,Both,#27AE60
+580,"Sheffield, City",53.381395,-1.468926,WheelchairAccess,AudioCashMachine,Both,#27AE60
+581,Epworth,53.525102,-0.819917,WheelchairAccess,AudioCashMachine,Both,#27AE60
+582,Gainsborough,53.39909,-0.77577,WheelchairAccess,AudioCashMachine,Both,#27AE60
+583,Bootle,53.448463,-2.99022,WheelchairAccess,AudioCashMachine,Both,#27AE60
+584,"Liverpool, Allerton",53.387763,-2.910181,WheelchairAccess,AudioCashMachine,Both,#27AE60
+585,"Liverpool, Lord Street",53.405697,-2.986504,WheelchairAccess,AudioCashMachine,Both,#27AE60
+586,"Liverpool, Old Swan",53.413731,-2.913525,WheelchairAccess,AudioCashMachine,Both,#27AE60
+587,"Liverpool, University",53.403587,-2.967337,WheelchairAccess,AudioCashMachine,Both,#27AE60
+588,Rochdale,53.617009,-2.158164,WheelchairAccess,AudioCashMachine,Both,#27AE60
+589,Northwich,53.260822,-2.515364,WheelchairAccess,AudioCashMachine,Both,#27AE60
+590,"Richmond, North Yorkshire",54.403282,-1.738706,WheelchairAccess,AudioCashMachine,Both,#27AE60
+591,Cramlington,55.085518,-1.589563,WheelchairAccess,AudioCashMachine,Both,#27AE60
+592,"Newcastle-Upon-Tyne, Gosforth",55.006439,-1.620108,WheelchairAccess,AudioCashMachine,Both,#27AE60
+593,Newcastle Upon Tyne,54.973766,-1.61262,WheelchairAccess,AudioCashMachine,Both,#27AE60
+594,South Shields,54.998253,-1.431213,WheelchairAccess,AudioCashMachine,Both,#27AE60
+595,Whitley Bay,55.041992,-1.445554,WheelchairAccess,AudioCashMachine,Both,#27AE60
+596,Aldridge,52.60519,-1.91833,WheelchairAccess,AudioCashMachine,Both,#27AE60
+597,Bloxwich,52.61623,-2.004609,WheelchairAccess,AudioCashMachine,Both,#27AE60
+598,Wolverhampton,52.585965,-2.127204,WheelchairAccess,AudioCashMachine,Both,#27AE60
+599,St Neots,52.228051,-0.268986,WheelchairAccess,AudioCashMachine,Both,#27AE60
+600,Melton Mowbray,52.764839,-0.88841,None,None,None,#E74C3C
+601,"Blackpool, Oxford Square",53.803101,-3.026301,WheelchairAccess,AudioCashMachine,Both,#27AE60
+602,Truro,50.263435,-5.051791,WheelchairAccess,AudioCashMachine,Both,#27AE60

@@ -1,0 +1,647 @@
+,Name,Latitude,Longitude,accessibility_w,accessibility_h,Accessibility,colour
+0,London 1284,51.5132818,-0.0770716,WheelchairAccess,InductionLoop,Both,#27AE60
+1,Whittlesey 1436,52.55663552,-0.12701322,WheelchairAccess,InductionLoop,Both,#27AE60
+2,Harrogate 0818,53.99311555,-1.54241122,WheelchairAccess,InductionLoop,Both,#27AE60
+3,Birmingham 0517,52.4165149,-1.9694924,WheelchairAccess,InductionLoop,Both,#27AE60
+4,Rotherham 0835,53.4316148,-1.3558636,WheelchairAccess,None,Wheelchair Only,#003FF6
+5,Hailsham 1316,50.86215008,0.25983966,None,InductionLoop,InductionLoop Only,#FA8406
+6,Beeston 1184,52.92664426,-1.21607199,WheelchairAccess,InductionLoop,Both,#27AE60
+7,St. Albans 0692,51.7536286,-0.3369606,None,None,None,#E74C3C
+8,Cannock 0549,52.6881665,-2.0294407,WheelchairAccess,InductionLoop,Both,#27AE60
+9,Beccles 1144,52.4573082,1.5636034,WheelchairAccess,InductionLoop,Both,#27AE60
+10,Leatherhead 0794,51.29524965,-0.32999239,WheelchairAccess,InductionLoop,Both,#27AE60
+11,Sleaford 1096,52.99950679,-0.41058375,None,InductionLoop,InductionLoop Only,#FA8406
+12,Long Eaton 0541,52.89740344,-1.27089925,WheelchairAccess,InductionLoop,Both,#27AE60
+13,Bradford 0837,53.7939622,-1.75295792,WheelchairAccess,InductionLoop,Both,#27AE60
+14,Gloucester 0480,51.8654579,-2.2461673,None,InductionLoop,InductionLoop Only,#FA8406
+15,Wolverhampton 1136,52.63063599,-2.20071964,WheelchairAccess,InductionLoop,Both,#27AE60
+16,Halifax 0828,53.72255876,-1.86217658,None,InductionLoop,InductionLoop Only,#FA8406
+17,Leven 0966,56.1956904,-2.9962206,WheelchairAccess,InductionLoop,Both,#27AE60
+18,Wokingham 0308,51.41065334,-0.83468481,WheelchairAccess,None,Wheelchair Only,#003FF6
+19,Colchester 0601,51.88921381,0.89780487,WheelchairAccess,None,Wheelchair Only,#003FF6
+20,Dunfermline 0937,56.07184796,-3.45843427,WheelchairAccess,None,Wheelchair Only,#003FF6
+21,Christchurch 0327,50.73534578,-1.77826394,WheelchairAccess,InductionLoop,Both,#27AE60
+22,Glenrothes 0905,56.1965644,-3.170107,WheelchairAccess,InductionLoop,Both,#27AE60
+23,Yate 1569,51.54086256,-2.41296483,WheelchairAccess,InductionLoop,Both,#27AE60
+24,Bournemouth 0320,50.7199551,-1.8779354,WheelchairAccess,InductionLoop,Both,#27AE60
+25,Exmouth 0416,50.61929076,-3.41330368,WheelchairAccess,InductionLoop,Both,#27AE60
+26,Bournemouth 1216,50.7265797,-1.8170884,WheelchairAccess,InductionLoop,Both,#27AE60
+27,Hornchurch 0690,51.5615734,0.2205284,WheelchairAccess,None,Wheelchair Only,#003FF6
+28,Malvern 0546,52.11210929,-2.33002983,WheelchairAccess,InductionLoop,Both,#27AE60
+29,Paisley 0909,55.84475811,-4.42347488,None,InductionLoop,InductionLoop Only,#FA8406
+30,Hereford 0506,52.05708215,-2.71417602,WheelchairAccess,None,Wheelchair Only,#003FF6
+31,Reading 0368,51.45782833,-1.04215215,WheelchairAccess,InductionLoop,Both,#27AE60
+32,Crowthorne 1245,51.3691858,-0.79268552,WheelchairAccess,InductionLoop,Both,#27AE60
+33,Stourbridge 0542,52.45529328,-2.14432404,WheelchairAccess,InductionLoop,Both,#27AE60
+34,Margate 0257,51.38682531,1.38098962,WheelchairAccess,InductionLoop,Both,#27AE60
+35,Stretford 0721,53.44510058,-2.30991908,WheelchairAccess,InductionLoop,Both,#27AE60
+36,Loughton 0209,51.64457336,0.05211107,None,InductionLoop,InductionLoop Only,#FA8406
+37,Livingston 1557,55.884014,-3.514761,WheelchairAccess,InductionLoop,Both,#27AE60
+38,Ruislip 0234,51.57360584,-0.42339252,WheelchairAccess,None,Wheelchair Only,#003FF6
+39,Barkingside 0233,51.59131753,0.0833065,WheelchairAccess,InductionLoop,Both,#27AE60
+40,Newcastle-under-Lyme 0598,53.0098714,-2.2258985,WheelchairAccess,InductionLoop,Both,#27AE60
+41,Tiverton 0429,50.90348782,-3.48612302,None,InductionLoop,InductionLoop Only,#FA8406
+42,Bury St. Edmunds 0603,52.24544568,0.7128418,None,InductionLoop,InductionLoop Only,#FA8406
+43,Derry/Londonderry 0944,54.99508828,-7.32135169,WheelchairAccess,None,Wheelchair Only,#003FF6
+44,Carmarthen 0485,51.85633681,-4.30781967,None,InductionLoop,InductionLoop Only,#FA8406
+45,Aylesbury 0303,51.81732042,-0.81299386,WheelchairAccess,None,Wheelchair Only,#003FF6
+46,Pontefract 1573,53.6916212,-1.3103379,None,None,None,#E74C3C
+47,Ripley 0535,53.0495486,-1.4055901,None,InductionLoop,InductionLoop Only,#FA8406
+48,Beaconsfield 0359,51.61323649,-0.64740211,WheelchairAccess,None,Wheelchair Only,#003FF6
+49,Wallsend 0839,54.9913012,-1.5331353,None,InductionLoop,InductionLoop Only,#FA8406
+50,Hartlepool 0823,54.6842519,-1.21703848,None,InductionLoop,InductionLoop Only,#FA8406
+51,Runcorn 0707,53.32688,-2.6983221,WheelchairAccess,InductionLoop,Both,#27AE60
+52,Rochdale 0724,53.61925411,-2.1552762,None,InductionLoop,InductionLoop Only,#FA8406
+53,Birmingham 0513,52.44648754,-1.82058059,WheelchairAccess,InductionLoop,Both,#27AE60
+54,New Malden 0269,51.4004199,-0.2555153,WheelchairAccess,None,Wheelchair Only,#003FF6
+55,Glasgow 0911,55.82797989,-4.2843507,WheelchairAccess,None,Wheelchair Only,#003FF6
+56,Kilmarnock 0925,55.6073509,-4.49683226,None,InductionLoop,InductionLoop Only,#FA8406
+57,Epsom 0265,51.33302153,-0.26815746,WheelchairAccess,None,Wheelchair Only,#003FF6
+58,Gosforth 0834,55.0042999,-1.6204341,None,InductionLoop,InductionLoop Only,#FA8406
+59,Brighton 0346,50.83088976,-0.13596139,WheelchairAccess,InductionLoop,Both,#27AE60
+60,Dumbarton 0939,55.94397981,-4.5721326,WheelchairAccess,InductionLoop,Both,#27AE60
+61,Horley 0381,51.17197513,-0.16487789,WheelchairAccess,InductionLoop,Both,#27AE60
+62,Croydon 0259,51.37402905,-0.09883023,WheelchairAccess,None,Wheelchair Only,#003FF6
+63,Abingdon 0357,51.6699456,-1.2824782,WheelchairAccess,InductionLoop,Both,#27AE60
+64,Hitchin 0610,51.94746772,-0.27810575,WheelchairAccess,None,Wheelchair Only,#003FF6
+65,Crewkerne 1275,50.8837018,-2.7960885,None,InductionLoop,InductionLoop Only,#FA8406
+66,Wakefield 1554,53.68340977,-1.49569604,WheelchairAccess,InductionLoop,Both,#27AE60
+67,South Woodford 0633,51.59282814,0.02633553,None,InductionLoop,InductionLoop Only,#FA8406
+68,Rickmansworth 0613,51.63888202,-0.47014459,WheelchairAccess,None,Wheelchair Only,#003FF6
+69,Waltham Cross 0974,51.6865692,-0.0334669,None,InductionLoop,InductionLoop Only,#FA8406
+70,Camden Town 0223,51.53740316,-0.14171131,WheelchairAccess,InductionLoop,Both,#27AE60
+71,Cranleigh 0378,51.1414086,-0.49078203,WheelchairAccess,InductionLoop,Both,#27AE60
+72,Gillingham 0671,51.38702913,0.54763081,None,None,None,#E74C3C
+73,Winchester 0335,51.06238066,-1.31317277,WheelchairAccess,None,Wheelchair Only,#003FF6
+74,Birstall 1084,52.67992069,-1.12450562,WheelchairAccess,InductionLoop,Both,#27AE60
+75,Poole 0305,50.71662453,-1.9834683,WheelchairAccess,InductionLoop,Both,#27AE60
+76,London 0283,51.44473221,-0.15148043,WheelchairAccess,None,Wheelchair Only,#003FF6
+77,Worcester Park 0289,51.37887004,-0.2426133,WheelchairAccess,None,Wheelchair Only,#003FF6
+78,Henley-On-Thames 0558,51.53737775,-0.90515457,WheelchairAccess,None,Wheelchair Only,#003FF6
+79,Witney 0448,51.78464308,-1.48496567,WheelchairAccess,None,Wheelchair Only,#003FF6
+80,Blairgowrie 0969,56.59184761,-3.33817318,None,InductionLoop,InductionLoop Only,#FA8406
+81,Wellingborough 0642,52.3018233,-0.6924216,WheelchairAccess,InductionLoop,Both,#27AE60
+82,Bexhill-on-Sea 0338,50.84001824,0.47440163,None,InductionLoop,InductionLoop Only,#FA8406
+83,Marlborough 0436,51.42100359,-1.73111714,WheelchairAccess,InductionLoop,Both,#27AE60
+84,Eastbourne 0307,50.76822733,0.28555083,WheelchairAccess,InductionLoop,Both,#27AE60
+85,Huntingdon 1051,52.32988108,-0.18222042,None,InductionLoop,InductionLoop Only,#FA8406
+86,Kirkcaldy 0919,56.1100508,-3.1592436,WheelchairAccess,InductionLoop,Both,#27AE60
+87,Herne Bay 1357,51.3718733,1.1308781,WheelchairAccess,InductionLoop,Both,#27AE60
+88,Aberdeen 0933,57.14602614,-2.10007765,None,InductionLoop,InductionLoop Only,#FA8406
+89,Barry 0412,51.40608034,-3.26624666,None,InductionLoop,InductionLoop Only,#FA8406
+90,Braintree 0644,51.87943917,0.55139891,WheelchairAccess,InductionLoop,Both,#27AE60
+91,Cupar 0975,56.319061,-3.0113771,WheelchairAccess,InductionLoop,Both,#27AE60
+92,Olney 1433,52.15395883,-0.70161357,None,InductionLoop,InductionLoop Only,#FA8406
+93,Redcar 1579,54.618478,-1.067726,None,None,None,#E74C3C
+94,Southend-On-Sea 0226,51.540013,0.711268,WheelchairAccess,InductionLoop,Both,#27AE60
+95,Carrickfergus 0952,54.71454498,-5.80734088,WheelchairAccess,None,Wheelchair Only,#003FF6
+96,Fakenham 1117,52.82962233,0.84760124,WheelchairAccess,InductionLoop,Both,#27AE60
+97,Stowmarket 0680,52.1878459,0.9951004,None,InductionLoop,InductionLoop Only,#FA8406
+98,Westerham 1187,51.26728372,0.07076002,WheelchairAccess,InductionLoop,Both,#27AE60
+99,Faversham 1358,51.31546527,0.89121418,WheelchairAccess,InductionLoop,Both,#27AE60
+100,Sandbach 0908,53.1443842,-2.3623281,WheelchairAccess,InductionLoop,Both,#27AE60
+101,Bishop's Stortford 0609,51.86941764,0.16021035,WheelchairAccess,InductionLoop,Both,#27AE60
+102,Lancaster 0782,54.04873555,-2.80371789,WheelchairAccess,InductionLoop,Both,#27AE60
+103,Seaford 0770,50.77308212,0.10301896,WheelchairAccess,InductionLoop,Both,#27AE60
+104,Aldershot 0377,51.2485977,-0.7645176,WheelchairAccess,None,Wheelchair Only,#003FF6
+105,Shirley 0548,52.41452007,-1.82806737,None,None,None,#E74C3C
+106,Plymouth 0439,50.37212904,-4.14284651,WheelchairAccess,InductionLoop,Both,#27AE60
+107,Streatham 0267,51.43321778,-0.12874427,None,None,None,#E74C3C
+108,London 0296,51.50507387,-0.22327099,WheelchairAccess,InductionLoop,Both,#27AE60
+109,Upminster 0989,51.55637797,0.25011337,WheelchairAccess,InductionLoop,Both,#27AE60
+110,Heswall 1588,53.32847635,-3.09963521,WheelchairAccess,InductionLoop,Both,#27AE60
+111,Falkirk 0968,55.9988456,-3.7831442,WheelchairAccess,None,Wheelchair Only,#003FF6
+112,London 0218,51.5428804,-0.0082235,WheelchairAccess,InductionLoop,Both,#27AE60
+113,Lisburn 0943,54.5110352,-6.04561579,WheelchairAccess,InductionLoop,Both,#27AE60
+114,Salford 0702,53.4888896,-2.2866853,WheelchairAccess,InductionLoop,Both,#27AE60
+115,Boston 0608,52.97799431,-0.02356365,WheelchairAccess,InductionLoop,Both,#27AE60
+116,Hastings 0806,50.85540138,0.58092601,WheelchairAccess,InductionLoop,Both,#27AE60
+117,Wallingford 0744,51.59935977,-1.12451913,WheelchairAccess,InductionLoop,Both,#27AE60
+118,St Andrews 1593,56.3404054,-2.7987911,WheelchairAccess,InductionLoop,Both,#27AE60
+119,London 0278,51.46264054,-0.13611057,WheelchairAccess,InductionLoop,Both,#27AE60
+120,Potters Bar 0667,51.69897398,-0.19073792,WheelchairAccess,None,Wheelchair Only,#003FF6
+121,Bexleyheath 0252,51.45696302,0.14310858,WheelchairAccess,InductionLoop,Both,#27AE60
+122,Cricklewood 0898,51.55605888,-0.21476783,WheelchairAccess,InductionLoop,Both,#27AE60
+123,Eltham 0271,51.45061965,0.05594301,WheelchairAccess,None,Wheelchair Only,#003FF6
+124,Feltham 0235,51.44567569,-0.41072609,WheelchairAccess,None,Wheelchair Only,#003FF6
+125,London 1790,51.49664048,-0.14060796,WheelchairAccess,None,Wheelchair Only,#003FF6
+126,Irvine 0922,55.6144398,-4.6685696,WheelchairAccess,InductionLoop,Both,#27AE60
+127,Inverness 0916,57.47817838,-4.22177061,WheelchairAccess,InductionLoop,Both,#27AE60
+128,Stroud 0421,51.7457474,-2.2175404,WheelchairAccess,InductionLoop,Both,#27AE60
+129,Letchworth 0648,51.97936744,-0.22719137,WheelchairAccess,InductionLoop,Both,#27AE60
+130,Corby 0645,52.48821442,-0.70105478,WheelchairAccess,InductionLoop,Both,#27AE60
+131,Wimborne 1970,50.79994943,-1.98816379,WheelchairAccess,InductionLoop,Both,#27AE60
+132,Sheffield 0838,53.3807044,-1.4711299,WheelchairAccess,None,Wheelchair Only,#003FF6
+133,Cirencester 0391,51.7160245,-1.968199,WheelchairAccess,InductionLoop,Both,#27AE60
+134,Andover 0343,51.2071637,-1.4790243,WheelchairAccess,InductionLoop,Both,#27AE60
+135,Burton Upon Trent 0523,52.80233,-1.630549,WheelchairAccess,InductionLoop,Both,#27AE60
+136,Glasgow 1591,55.88973228,-4.32486717,WheelchairAccess,InductionLoop,Both,#27AE60
+137,Dorking 0347,51.23270243,-0.32980573,WheelchairAccess,InductionLoop,Both,#27AE60
+138,Gravesend 0623,51.4417458,0.3692691,WheelchairAccess,None,Wheelchair Only,#003FF6
+139,Hull 0817,53.74507967,-0.33968708,WheelchairAccess,InductionLoop,Both,#27AE60
+140,Penzance 0427,50.11978356,-5.53510062,WheelchairAccess,None,Wheelchair Only,#003FF6
+141,Bourne 1426,52.76912134,-0.37730164,WheelchairAccess,InductionLoop,Both,#27AE60
+142,Shirley 0312,50.9214853,-1.4321132,WheelchairAccess,InductionLoop,Both,#27AE60
+143,Edinburgh 0915,55.9535747,-3.1915073,WheelchairAccess,None,Wheelchair Only,#003FF6
+144,Bedford 0604,52.13779564,-0.47012172,WheelchairAccess,InductionLoop,Both,#27AE60
+145,York 0791,53.95924943,-1.08205655,WheelchairAccess,InductionLoop,Both,#27AE60
+146,Birmingham 0514,52.43230637,-1.89280605,WheelchairAccess,None,Wheelchair Only,#003FF6
+147,Liverpool 0752,53.40534,-2.988781,WheelchairAccess,InductionLoop,Both,#27AE60
+148,Stevenage 0602,51.90066172,-0.20086269,WheelchairAccess,InductionLoop,Both,#27AE60
+149,Fleet 0315,51.28096935,-0.84269088,WheelchairAccess,InductionLoop,Both,#27AE60
+150,Slough 0329,51.50847286,-0.59200175,None,None,None,#E74C3C
+151,Birmingham 0518,52.52351796,-1.83980213,None,InductionLoop,InductionLoop Only,#FA8406
+152,Ayr 0918,55.46165217,-4.62917904,WheelchairAccess,None,Wheelchair Only,#003FF6
+153,Walthamstow 0240,51.58395725,-0.02509557,WheelchairAccess,InductionLoop,Both,#27AE60
+154,Congleton 1116,53.16341829,-2.21394561,WheelchairAccess,InductionLoop,Both,#27AE60
+155,Walsall 0501,52.58470429,-1.97999457,WheelchairAccess,InductionLoop,Both,#27AE60
+156,Oswestry 0964,52.8585998,-3.0562719,WheelchairAccess,InductionLoop,Both,#27AE60
+157,Hunstanton 0449,52.94031733,0.49035876,None,InductionLoop,InductionLoop Only,#FA8406
+158,Cheadle 0784,53.39510542,-2.21427467,WheelchairAccess,None,Wheelchair Only,#003FF6
+159,Mansfield 0511,53.14426,-1.197001,WheelchairAccess,InductionLoop,Both,#27AE60
+160,Banbury 0596,52.0621788,-1.336089,WheelchairAccess,InductionLoop,Both,#27AE60
+161,Northampton 0783,52.2577007,-0.8356661,WheelchairAccess,InductionLoop,Both,#27AE60
+162,Tunbridge Wells 0371,51.13416441,0.26462677,WheelchairAccess,InductionLoop,Both,#27AE60
+163,Tooting 0266,51.4289901,-0.1671888,WheelchairAccess,InductionLoop,Both,#27AE60
+164,Birmingham 0544,52.50332277,-1.93369187,WheelchairAccess,InductionLoop,Both,#27AE60
+165,Great Yarmouth 0606,52.6074955,1.7268105,WheelchairAccess,InductionLoop,Both,#27AE60
+166,Kensington 0228,51.499883,-0.195605,None,InductionLoop,InductionLoop Only,#FA8406
+167,Hove 0333,50.82918071,-0.17353754,WheelchairAccess,InductionLoop,Both,#27AE60
+168,Enniskillen 0949,54.3455273,-7.6393494,WheelchairAccess,InductionLoop,Both,#27AE60
+169,Grays 0299,51.4774678,0.3231194,WheelchairAccess,None,Wheelchair Only,#003FF6
+170,High Wycombe 0322,51.62870949,-0.74867953,WheelchairAccess,InductionLoop,Both,#27AE60
+171,Haywards Heath 0334,50.99585391,-0.10110072,WheelchairAccess,InductionLoop,Both,#27AE60
+172,Salisbury 0328,51.067948,-1.796425,None,InductionLoop,InductionLoop Only,#FA8406
+173,London 0213,51.6139828,-0.06432969,WheelchairAccess,None,Wheelchair Only,#003FF6
+174,Berkhamsted 0433,51.76071012,-0.56604959,WheelchairAccess,InductionLoop,Both,#27AE60
+175,Orpington 0274,51.37715905,0.09998354,WheelchairAccess,InductionLoop,Both,#27AE60
+176,Wareham 1496,50.68589735,-2.10964475,WheelchairAccess,InductionLoop,Both,#27AE60
+177,Washington 1580,54.900787,-1.5328579,WheelchairAccess,InductionLoop,Both,#27AE60
+178,Derby 1780,52.92110738,-1.47449211,WheelchairAccess,None,Wheelchair Only,#003FF6
+179,Exeter 0428,50.7240676,-3.5293807,WheelchairAccess,InductionLoop,Both,#27AE60
+180,Bridgwater 0408,51.12868377,-3.00150074,None,None,None,#E74C3C
+181,York 0438,54.2458665,-1.0607794,WheelchairAccess,InductionLoop,Both,#27AE60
+182,Rothwell 1130,52.4230172,-0.80271937,WheelchairAccess,None,Wheelchair Only,#003FF6
+183,Matlock 0494,53.13816688,-1.55510663,None,InductionLoop,InductionLoop Only,#FA8406
+184,Petersfield 0341,51.00426167,-0.93861512,WheelchairAccess,InductionLoop,Both,#27AE60
+185,Dumfries 0930,55.0702013,-3.6120685,None,InductionLoop,InductionLoop Only,#FA8406
+186,St. Helens 0754,53.45241624,-2.73621583,None,InductionLoop,InductionLoop Only,#FA8406
+187,Bedworth 0384,52.47938248,-1.47200569,WheelchairAccess,InductionLoop,Both,#27AE60
+188,Fordingbridge 0446,50.927535,-1.790088,WheelchairAccess,InductionLoop,Both,#27AE60
+189,Huddersfield 0881,53.646779,-1.7819483,WheelchairAccess,None,Wheelchair Only,#003FF6
+190,Torrington 1978,50.95236832,-4.14243392,WheelchairAccess,InductionLoop,Both,#27AE60
+191,Neath 0418,51.66256909,-3.80515404,None,None,None,#E74C3C
+192,Fareham 0336,50.85271497,-1.17973737,WheelchairAccess,None,Wheelchair Only,#003FF6
+193,Southall 0293,51.511086,-0.375803,None,None,None,#E74C3C
+194,Ashton-under-Lyne 0789,53.48818517,-2.09463782,WheelchairAccess,InductionLoop,Both,#27AE60
+195,Ludlow 1293,52.36810517,-2.71790917,WheelchairAccess,InductionLoop,Both,#27AE60
+196,Swansea 0489,51.6199361,-3.9433258,WheelchairAccess,InductionLoop,Both,#27AE60
+197,Melksham 0593,51.37281298,-2.13853665,None,InductionLoop,InductionLoop Only,#FA8406
+198,Wolverhampton 1204,52.58037277,-2.17219663,WheelchairAccess,InductionLoop,Both,#27AE60
+199,Nuneaton 0597,52.52291246,-1.46544791,WheelchairAccess,InductionLoop,Both,#27AE60
+200,Hungerford 1238,51.41501563,-1.51582228,WheelchairAccess,InductionLoop,Both,#27AE60
+201,Harpenden 0682,51.81549154,-0.35613857,WheelchairAccess,InductionLoop,Both,#27AE60
+202,Omagh 0554,54.60013233,-7.30275325,None,None,None,#E74C3C
+203,Dunstable 0657,51.886608,-0.521388,WheelchairAccess,InductionLoop,Both,#27AE60
+204,Bideford 1975,51.01935249,-4.20437335,WheelchairAccess,InductionLoop,Both,#27AE60
+205,Havant 0965,50.851699,-0.98270393,WheelchairAccess,InductionLoop,Both,#27AE60
+206,Muswell Hill 0236,51.5909921,-0.14286317,WheelchairAccess,None,Wheelchair Only,#003FF6
+207,Perth 0935,56.39652011,-3.43351051,WheelchairAccess,None,Wheelchair Only,#003FF6
+208,Portsmouth 0323,50.8013754,-1.0886363,WheelchairAccess,InductionLoop,Both,#27AE60
+209,Bridgend 0405,51.5070543,-3.5779809,None,InductionLoop,InductionLoop Only,#FA8406
+210,Abergavenny 0419,51.8223803,-3.0190247,WheelchairAccess,InductionLoop,Both,#27AE60
+211,Birmingham 0507,52.4786099,-1.8947439,None,None,None,#E74C3C
+212,Broadstairs 1355,51.3585565,1.44095487,WheelchairAccess,InductionLoop,Both,#27AE60
+213,Thetford 1089,52.4137686,0.7476916,WheelchairAccess,InductionLoop,Both,#27AE60
+214,Welwyn Garden City 0614,51.8022711,-0.2050882,WheelchairAccess,InductionLoop,Both,#27AE60
+215,Greenford 0248,51.52783382,-0.35411931,WheelchairAccess,InductionLoop,Both,#27AE60
+216,Penarth 0406,51.4392026,-3.17453674,None,InductionLoop,InductionLoop Only,#FA8406
+217,Bath 0403,51.3819512,-2.3603636,None,InductionLoop,InductionLoop Only,#FA8406
+218,Wrexham 0711,53.0465974,-2.9963096,WheelchairAccess,None,Wheelchair Only,#003FF6
+219,Epping 0695,51.69982811,0.11267061,None,InductionLoop,InductionLoop Only,#FA8406
+220,March 1435,52.55085684,0.08782871,None,InductionLoop,InductionLoop Only,#FA8406
+221,Redruth 0415,50.2332964,-5.2282434,WheelchairAccess,InductionLoop,Both,#27AE60
+222,Grantham 0643,52.91212003,-0.64204432,WheelchairAccess,InductionLoop,Both,#27AE60
+223,Great Dunmow 1413,51.87190627,0.36300735,WheelchairAccess,InductionLoop,Both,#27AE60
+224,Middlesbrough 0850,54.5779999,-1.2362747,WheelchairAccess,None,Wheelchair Only,#003FF6
+225,Thirsk 0906,54.23212382,-1.34325477,None,InductionLoop,InductionLoop Only,#FA8406
+226,Warrington 0727,53.3890052,-2.5951129,WheelchairAccess,None,Wheelchair Only,#003FF6
+227,Newport 1328,50.6993582,-1.2950419,WheelchairAccess,InductionLoop,Both,#27AE60
+228,Derby 1692,52.90491741,-1.54305789,None,None,None,#E74C3C
+229,Barrow-in-Furness 0713,54.115128,-3.2267105,WheelchairAccess,None,Wheelchair Only,#003FF6
+230,East Ham 0222,51.5401,0.051035,WheelchairAccess,None,Wheelchair Only,#003FF6
+231,London 1960,51.51943735,-0.13281561,WheelchairAccess,None,Wheelchair Only,#003FF6
+232,Cheltenham 0422,51.90174382,-2.07555972,WheelchairAccess,InductionLoop,Both,#27AE60
+233,Colwyn Bay 0705,53.29533514,-3.72866638,None,None,None,#E74C3C
+234,Sedgley 1371,52.5405861,-2.1211241,WheelchairAccess,InductionLoop,Both,#27AE60
+235,Cranbrook 0793,51.09652019,0.53485639,WheelchairAccess,InductionLoop,Both,#27AE60
+236,Ilfracombe 0729,51.2085444,-4.1225613,WheelchairAccess,InductionLoop,Both,#27AE60
+237,Wellingborough 1118,52.3260476,-0.6129652,WheelchairAccess,InductionLoop,Both,#27AE60
+238,Newtown 0730,52.51496403,-3.31568509,WheelchairAccess,InductionLoop,Both,#27AE60
+239,Holloway 0298,51.55851345,-0.11850682,WheelchairAccess,None,Wheelchair Only,#003FF6
+240,Doncaster 0877,53.52304135,-1.13596103,None,None,None,#E74C3C
+241,Beckenham 0251,51.40659515,-0.02920932,WheelchairAccess,None,Wheelchair Only,#003FF6
+242,Rutherglen 0904,55.82818055,-4.21119697,WheelchairAccess,InductionLoop,Both,#27AE60
+243,Dovercourt 0940,51.93711788,1.28005005,WheelchairAccess,InductionLoop,Both,#27AE60
+244,Leigh 0582,53.495374,-2.516608,WheelchairAccess,InductionLoop,Both,#27AE60
+245,Northampton 0454,52.2381208,-0.8939123,None,None,None,#E74C3C
+246,Kirkwall 1500,58.983987,-2.957733,WheelchairAccess,InductionLoop,Both,#27AE60
+247,Daventry 0395,52.25819804,-1.16170428,None,InductionLoop,InductionLoop Only,#FA8406
+248,Gainsborough 0830,53.399462,-0.7760796,WheelchairAccess,InductionLoop,Both,#27AE60
+249,Earl Shilton 1068,52.57588864,-1.31582759,WheelchairAccess,InductionLoop,Both,#27AE60
+250,Peacehaven 1306,50.79187023,-0.00315629,WheelchairAccess,InductionLoop,Both,#27AE60
+251,Manchester 0719,53.52453661,-2.39913385,WheelchairAccess,InductionLoop,Both,#27AE60
+252,Morecambe 0981,54.0722531,-2.866072,None,InductionLoop,InductionLoop Only,#FA8406
+253,Wood Green 0242,51.5911919,-0.10455594,WheelchairAccess,None,Wheelchair Only,#003FF6
+254,Nantwich 1404,53.06749159,-2.5225807,WheelchairAccess,InductionLoop,Both,#27AE60
+255,Wigston 0538,52.58662796,-1.10585832,WheelchairAccess,None,Wheelchair Only,#003FF6
+256,Keighley 0841,53.86593502,-1.90839982,WheelchairAccess,InductionLoop,Both,#27AE60
+257,Heanor 0452,53.0141013,-1.3555847,None,InductionLoop,InductionLoop Only,#FA8406
+258,Southport 0755,53.64813049,-3.00294226,None,None,None,#E74C3C
+259,Chatham 0254,51.38101796,0.52787905,None,InductionLoop,InductionLoop Only,#FA8406
+260,Bangor 0487,53.22684262,-4.12492883,WheelchairAccess,InductionLoop,Both,#27AE60
+261,Goole 0825,53.7036884,-0.8727273,WheelchairAccess,InductionLoop,Both,#27AE60
+262,Mold 1522,53.16762884,-3.1424164,WheelchairAccess,InductionLoop,Both,#27AE60
+263,Morden 0275,51.40321555,-0.19269004,None,None,None,#E74C3C
+264,Wisbech 0747,52.66532532,0.1599748,None,InductionLoop,InductionLoop Only,#FA8406
+265,Tamworth 0529,52.6329027,-1.69558723,WheelchairAccess,InductionLoop,Both,#27AE60
+266,Cwmbran 0486,51.6525269,-3.0205609,WheelchairAccess,InductionLoop,Both,#27AE60
+267,London 0216,51.518529,-0.0855834,WheelchairAccess,None,Wheelchair Only,#003FF6
+268,Cambridge 0674,52.20536701,0.12076009,WheelchairAccess,InductionLoop,Both,#27AE60
+269,Kingswinford 1266,52.49624155,-2.16809115,WheelchairAccess,InductionLoop,Both,#27AE60
+270,Bootle 0715,53.45146852,-2.9902996,WheelchairAccess,InductionLoop,Both,#27AE60
+271,Harrow 0616,51.56392671,-0.35480149,WheelchairAccess,None,Wheelchair Only,#003FF6
+272,West Bromwich 0536,52.51869647,-1.99378895,WheelchairAccess,None,Wheelchair Only,#003FF6
+273,Chingford 0245,51.61676533,-0.01712255,WheelchairAccess,InductionLoop,Both,#27AE60
+274,Newquay 0441,50.41430088,-5.08020562,WheelchairAccess,InductionLoop,Both,#27AE60
+275,Sutton Coldfield 0504,52.5626306,-1.8232255,WheelchairAccess,InductionLoop,Both,#27AE60
+276,Bristol 0430,51.46293297,-2.51024611,None,InductionLoop,InductionLoop Only,#FA8406
+277,Whitley Bay 0821,55.04206969,-1.44530602,None,InductionLoop,InductionLoop Only,#FA8406
+278,Cosham 0340,50.845487,-1.066885,WheelchairAccess,InductionLoop,Both,#27AE60
+279,Maidstone 0277,51.2736816,0.52474178,WheelchairAccess,None,Wheelchair Only,#003FF6
+280,Peterborough 0669,52.5734515,-0.24187289,WheelchairAccess,None,Wheelchair Only,#003FF6
+281,Crewe 0717,53.09741117,-2.44109608,None,None,None,#E74C3C
+282,Shrewsbury 0594,52.70868889,-2.75266085,WheelchairAccess,InductionLoop,Both,#27AE60
+283,Poole 0425,50.72864955,-1.93789339,None,None,None,#E74C3C
+284,Ormskirk 1330,53.5683188,-2.8857322,WheelchairAccess,None,Wheelchair Only,#003FF6
+285,Alton 0348,51.14886949,-0.97526751,WheelchairAccess,None,Wheelchair Only,#003FF6
+286,Biggleswade 0983,52.08704678,-0.2645827,WheelchairAccess,InductionLoop,Both,#27AE60
+287,Carlisle 0775,54.89319705,-2.93341711,WheelchairAccess,InductionLoop,Both,#27AE60
+288,Swanage 1377,50.60948824,-1.95852068,WheelchairAccess,InductionLoop,Both,#27AE60
+289,Loughborough 0520,52.7723837,-1.206867,WheelchairAccess,InductionLoop,Both,#27AE60
+290,Newport 1299,52.76811519,-2.37808294,WheelchairAccess,InductionLoop,Both,#27AE60
+291,London 0230,51.51718899,-0.1243012,None,None,None,#E74C3C
+292,Kendal 1586,54.32779493,-2.74603499,WheelchairAccess,InductionLoop,Both,#27AE60
+293,Glasgow 0912,55.87590966,-4.29265675,None,InductionLoop,InductionLoop Only,#FA8406
+294,Dagenham 0292,51.54255016,0.14758966,WheelchairAccess,InductionLoop,Both,#27AE60
+295,Rugeley 0553,52.759551,-1.9356168,WheelchairAccess,None,Wheelchair Only,#003FF6
+296,Frodsham 1599,53.2956993,-2.7251724,WheelchairAccess,InductionLoop,Both,#27AE60
+297,Walton-On-Thames 0678,51.38656098,-0.41985852,WheelchairAccess,InductionLoop,Both,#27AE60
+298,Retford 0836,53.3237561,-0.9424834,None,InductionLoop,InductionLoop Only,#FA8406
+299,Waterlooville 0311,50.8791877,-1.0324848,None,None,None,#E74C3C
+300,Winsford 1289,53.191935,-2.5306503,WheelchairAccess,InductionLoop,Both,#27AE60
+301,Leicester 0888,52.5758848,-1.16373,WheelchairAccess,InductionLoop,Both,#27AE60
+302,Canvey Island 0637,51.522903,0.592757,None,InductionLoop,InductionLoop Only,#FA8406
+303,Airdrie 0932,55.8662882,-3.9802843,WheelchairAccess,InductionLoop,Both,#27AE60
+304,Glastonbury 1590,51.1476286,-2.71754269,WheelchairAccess,InductionLoop,Both,#27AE60
+305,Pontypridd 0413,51.60046528,-3.34121744,None,InductionLoop,InductionLoop Only,#FA8406
+306,Paignton 0409,50.43778923,-3.56728233,WheelchairAccess,None,Wheelchair Only,#003FF6
+307,Ringwood 0848,50.84647724,-1.79394051,WheelchairAccess,InductionLoop,Both,#27AE60
+308,Wantage 1082,51.58831289,-1.42595735,None,None,None,#E74C3C
+309,Devizes 1129,51.35245447,-1.99274875,WheelchairAccess,InductionLoop,Both,#27AE60
+310,Diss 1123,52.37605008,1.10913589,WheelchairAccess,InductionLoop,Both,#27AE60
+311,East Dereham 1097,52.68085977,0.94149537,WheelchairAccess,InductionLoop,Both,#27AE60
+312,Ellesmere Port 0704,53.2783891,-2.90106479,WheelchairAccess,InductionLoop,Both,#27AE60
+313,Ryde 0393,50.72991614,-1.16276618,WheelchairAccess,InductionLoop,Both,#27AE60
+314,Richmond 1197,51.46123,-0.303117,WheelchairAccess,InductionLoop,Both,#27AE60
+315,Merthyr Tydfil 0417,51.7457,-3.37886,None,InductionLoop,InductionLoop Only,#FA8406
+316,Spalding 1101,52.80405021,0.01352517,WheelchairAccess,None,Wheelchair Only,#003FF6
+317,Kidderminster 0505,52.38808945,-2.24877767,WheelchairAccess,InductionLoop,Both,#27AE60
+318,Chichester 0306,50.8367105,-0.779061,WheelchairAccess,InductionLoop,Both,#27AE60
+319,Trowbridge 0443,51.32083763,-2.20840886,WheelchairAccess,InductionLoop,Both,#27AE60
+320,Basingstoke 0374,51.26371531,-1.08748793,WheelchairAccess,InductionLoop,Both,#27AE60
+321,Sudbury 0684,52.03837963,0.72968498,None,InductionLoop,InductionLoop Only,#FA8406
+322,Camberley 0309,51.3386771,-0.7451058,WheelchairAccess,InductionLoop,Both,#27AE60
+323,Staines 0972,51.4338506,-0.5123732,WheelchairAccess,InductionLoop,Both,#27AE60
+324,Cleethorpes 1040,53.55950855,-0.03201997,None,None,None,#E74C3C
+325,Caernarfon 0493,53.1394338,-4.2724609,WheelchairAccess,InductionLoop,Both,#27AE60
+326,Chiswick 0294,51.49259238,-0.26083298,WheelchairAccess,InductionLoop,Both,#27AE60
+327,Slough 0354,51.52580079,-0.61541366,WheelchairAccess,InductionLoop,Both,#27AE60
+328,Blackburn 0771,53.74871172,-2.48417828,WheelchairAccess,InductionLoop,Both,#27AE60
+329,Glengormley 0951,54.671039,-5.9586591,WheelchairAccess,None,Wheelchair Only,#003FF6
+330,Bridport 1020,50.73403523,-2.75995574,WheelchairAccess,InductionLoop,Both,#27AE60
+331,Coalville 0543,52.7240839,-1.3729429,WheelchairAccess,None,Wheelchair Only,#003FF6
+332,Twickenham 0262,51.44551995,-0.33117281,WheelchairAccess,InductionLoop,Both,#27AE60
+333,Rayleigh 0290,51.58725522,0.60688956,WheelchairAccess,InductionLoop,Both,#27AE60
+334,Norwich 1389,52.62528582,1.29189513,WheelchairAccess,InductionLoop,Both,#27AE60
+335,Longfield 1470,51.39743251,0.2997072,WheelchairAccess,InductionLoop,Both,#27AE60
+336,Stanmore 0618,51.61779632,-0.30991225,None,InductionLoop,InductionLoop Only,#FA8406
+337,Birchington 1367,51.37420365,1.30670969,None,InductionLoop,InductionLoop Only,#FA8406
+338,Islington 1581,51.53464822,-0.10531005,None,None,None,#E74C3C
+339,Eastleigh 0342,50.96796535,-1.35336604,WheelchairAccess,InductionLoop,Both,#27AE60
+340,Guildford 0370,51.23500858,-0.57538305,WheelchairAccess,InductionLoop,Both,#27AE60
+341,Wigan 0797,53.54647028,-2.63188717,None,None,None,#E74C3C
+342,Wimbledon 0258,51.42208318,-0.20861499,WheelchairAccess,InductionLoop,Both,#27AE60
+343,Edinburgh 0936,55.9275022,-3.2095769,None,InductionLoop,InductionLoop Only,#FA8406
+344,Northampton 0847,52.24327889,-0.87323416,WheelchairAccess,InductionLoop,Both,#27AE60
+345,Lincoln 0683,53.22705094,-0.54110012,WheelchairAccess,InductionLoop,Both,#27AE60
+346,Harrow 0224,51.5807772,-0.334169,None,InductionLoop,InductionLoop Only,#FA8406
+347,London 0246,51.53655255,0.03520332,None,None,None,#E74C3C
+348,Enfield 0220,51.65238613,-0.08485822,WheelchairAccess,InductionLoop,Both,#27AE60
+349,Chard 0431,50.87298897,-2.9640377,WheelchairAccess,InductionLoop,Both,#27AE60
+350,Sutton-In-Ashfield 0832,53.1246013,-1.2614709,WheelchairAccess,InductionLoop,Both,#27AE60
+351,Bicester 0956,51.89660176,-1.15104743,None,InductionLoop,InductionLoop Only,#FA8406
+352,Romsey 0375,50.98873464,-1.49732628,WheelchairAccess,InductionLoop,Both,#27AE60
+353,Newport 0484,51.58628855,-2.99493081,WheelchairAccess,InductionLoop,Both,#27AE60
+354,Battle 1360,50.91732545,0.48374779,WheelchairAccess,InductionLoop,Both,#27AE60
+355,Marlow 0358,51.57102038,-0.7762397,None,InductionLoop,InductionLoop Only,#FA8406
+356,Leighton Buzzard 0641,51.9163978,-0.66290595,None,InductionLoop,InductionLoop Only,#FA8406
+357,Rugby 0503,52.37164807,-1.26280932,WheelchairAccess,InductionLoop,Both,#27AE60
+358,Birkenhead 0720,53.390295,-3.0243768,WheelchairAccess,InductionLoop,Both,#27AE60
+359,Alfreton 1425,53.09761329,-1.38886526,None,InductionLoop,InductionLoop Only,#FA8406
+360,Birmingham 0515,52.4719303,-1.86475317,None,None,None,#E74C3C
+361,Leeds 0827,53.79705532,-1.54499254,WheelchairAccess,None,Wheelchair Only,#003FF6
+362,Caerphilly 0483,51.5739264,-3.2202087,None,None,None,#E74C3C
+363,Yeovil 0420,50.94117485,-2.6299115,WheelchairAccess,InductionLoop,Both,#27AE60
+364,Chesterfield 0815,53.2364729,-1.4294786,None,InductionLoop,InductionLoop Only,#FA8406
+365,Harlow 0694,51.76928773,0.09399909,WheelchairAccess,InductionLoop,Both,#27AE60
+366,Stratford-Upon-Avon 0525,52.19287549,-1.70824655,WheelchairAccess,InductionLoop,Both,#27AE60
+367,Horsham 0314,51.0625798,-0.32807933,WheelchairAccess,InductionLoop,Both,#27AE60
+368,Evesham 0539,52.09360499,-1.94716264,WheelchairAccess,None,Wheelchair Only,#003FF6
+369,Ashby-de-la-Zouch 1061,52.7470768,-1.4718472,WheelchairAccess,InductionLoop,Both,#27AE60
+370,Amesbury 0592,51.17185914,-1.77979761,None,InductionLoop,InductionLoop Only,#FA8406
+371,Marple 1512,53.394373,-2.0626949,WheelchairAccess,InductionLoop,Both,#27AE60
+372,Kenilworth 0907,52.34146006,-1.57765276,WheelchairAccess,InductionLoop,Both,#27AE60
+373,London 0693,51.548488,-0.054842,None,InductionLoop,InductionLoop Only,#FA8406
+374,Ilkeston 0599,52.97311735,-1.3086677,None,InductionLoop,InductionLoop Only,#FA8406
+375,Motherwell 0960,55.7909221,-3.99308704,None,InductionLoop,InductionLoop Only,#FA8406
+376,Frinton-On-Sea 1179,51.8309992,1.2454455,WheelchairAccess,InductionLoop,Both,#27AE60
+377,Oldham 0726,53.54216747,-2.11204002,None,InductionLoop,InductionLoop Only,#FA8406
+378,Wednesfield 1497,52.60029302,-2.08204693,WheelchairAccess,InductionLoop,Both,#27AE60
+379,Bromborough 1549,53.3319975,-2.9780449,WheelchairAccess,InductionLoop,Both,#27AE60
+380,Monmouth 0482,51.8126916,-2.7149905,None,InductionLoop,InductionLoop Only,#FA8406
+381,London 0634,51.57783829,0.02656694,WheelchairAccess,InductionLoop,Both,#27AE60
+382,Barnsley 0820,53.55305525,-1.48087576,WheelchairAccess,None,Wheelchair Only,#003FF6
+383,Strood 0886,51.39570995,0.49616046,None,InductionLoop,InductionLoop Only,#FA8406
+384,Spalding 0640,52.7872317,-0.1522477,WheelchairAccess,InductionLoop,Both,#27AE60
+385,Dorchester 0467,50.7153225,-2.4373521,WheelchairAccess,InductionLoop,Both,#27AE60
+386,Truro 0402,50.26415033,-5.05243919,WheelchairAccess,InductionLoop,Both,#27AE60
+387,Barking 0243,51.53810764,0.08010797,WheelchairAccess,InductionLoop,Both,#27AE60
+388,Wallington 0345,51.35853239,-0.1493283,None,None,None,#E74C3C
+389,Blyth 0842,55.1270074,-1.5122082,None,None,None,#E74C3C
+390,Towcester 0437,52.13189608,-0.98961687,None,None,None,#E74C3C
+391,Canterbury 0287,51.2788984,1.080321,WheelchairAccess,InductionLoop,Both,#27AE60
+392,Chorley 0716,53.6530546,-2.6320675,WheelchairAccess,InductionLoop,Both,#27AE60
+393,Maidenhead 0796,51.5229539,-0.7198892,WheelchairAccess,None,Wheelchair Only,#003FF6
+394,Burgess Hill 0325,50.9554592,-0.1299041,WheelchairAccess,InductionLoop,Both,#27AE60
+395,Deal 0676,51.22370731,1.40303514,None,InductionLoop,InductionLoop Only,#FA8406
+396,St. Leonards-on-Sea 0552,50.8531477,0.559863,WheelchairAccess,InductionLoop,Both,#27AE60
+397,Northampton 0883,52.2432285,-0.9438635,WheelchairAccess,InductionLoop,Both,#27AE60
+398,Stirling 0931,56.11669761,-3.93702737,WheelchairAccess,InductionLoop,Both,#27AE60
+399,Redhill 0302,51.24032237,-0.16876944,WheelchairAccess,InductionLoop,Both,#27AE60
+400,Middlewich 1523,53.19307707,-2.4478919,WheelchairAccess,InductionLoop,Both,#27AE60
+401,Bitterne 0316,50.91433064,-1.36144772,WheelchairAccess,InductionLoop,Both,#27AE60
+402,Brixton 0270,51.46383534,-0.1143106,WheelchairAccess,None,Wheelchair Only,#003FF6
+403,Preston 0758,53.75771442,-2.70274897,WheelchairAccess,InductionLoop,Both,#27AE60
+404,Stockton on Tees 0833,54.5643762,-1.3125264,WheelchairAccess,None,Wheelchair Only,#003FF6
+405,Tenterden 1361,51.0682457,0.68765397,WheelchairAccess,InductionLoop,Both,#27AE60
+406,Totton 0557,50.9190965,-1.4874418,WheelchairAccess,InductionLoop,Both,#27AE60
+407,Greenock 0901,55.9502586,-4.76156339,WheelchairAccess,InductionLoop,Both,#27AE60
+408,Shotton 1520,53.21269624,-3.04104818,WheelchairAccess,InductionLoop,Both,#27AE60
+409,London 0460,51.51002104,-0.12298415,WheelchairAccess,InductionLoop,Both,#27AE60
+410,Sheringham 1154,52.94381731,1.21121179,WheelchairAccess,InductionLoop,Both,#27AE60
+411,Lowestoft 0605,52.4747953,1.7514781,WheelchairAccess,InductionLoop,Both,#27AE60
+412,Kettering 0456,52.39930705,-0.72818242,WheelchairAccess,InductionLoop,Both,#27AE60
+413,Putney 0253,51.46489065,-0.21492249,None,InductionLoop,InductionLoop Only,#FA8406
+414,Dalkeith 0928,55.8940309,-3.07139374,None,InductionLoop,InductionLoop Only,#FA8406
+415,Wickford 0699,51.61277529,0.52041016,WheelchairAccess,InductionLoop,Both,#27AE60
+416,Hertford 0655,51.7961229,-0.07689915,WheelchairAccess,InductionLoop,Both,#27AE60
+417,Bognor Regis 0462,50.78355002,-0.67304022,WheelchairAccess,InductionLoop,Both,#27AE60
+418,Wellington 0533,52.700187,-2.516324,WheelchairAccess,InductionLoop,Both,#27AE60
+419,Oxford 0351,51.7518266,-1.2582833,WheelchairAccess,None,Wheelchair Only,#003FF6
+420,Bournemouth 1977,50.74318542,-1.87893093,WheelchairAccess,InductionLoop,Both,#27AE60
+421,Peterhead 0902,57.50507067,-1.77997581,WheelchairAccess,InductionLoop,Both,#27AE60
+422,London 1291,51.51519998,-0.15454651,WheelchairAccess,InductionLoop,Both,#27AE60
+423,Mill Hill 0893,51.6146852,-0.24667776,WheelchairAccess,InductionLoop,Both,#27AE60
+424,Egham 1256,51.4317416,-0.5484476,WheelchairAccess,InductionLoop,Both,#27AE60
+425,Llanelli 0404,51.6817049,-4.162101,WheelchairAccess,InductionLoop,Both,#27AE60
+426,Swindon 0435,51.55970971,-1.78305783,WheelchairAccess,None,Wheelchair Only,#003FF6
+427,Cardiff 0444,51.48211364,-3.17615237,WheelchairAccess,InductionLoop,Both,#27AE60
+428,West Wickham 0286,51.37619611,-0.01681109,None,InductionLoop,InductionLoop Only,#FA8406
+429,Ipswich 0654,52.05757032,1.15571267,WheelchairAccess,None,Wheelchair Only,#003FF6
+430,Oban 0938,56.41451848,-5.47229713,None,InductionLoop,InductionLoop Only,#FA8406
+431,Kilburn 0231,51.537628,-0.19274912,WheelchairAccess,None,Wheelchair Only,#003FF6
+432,Hampstead 0660,51.55683483,-0.17858304,None,None,None,#E74C3C
+433,Newmarket 0651,52.24419426,0.4068405,WheelchairAccess,InductionLoop,Both,#27AE60
+434,Pocklington 0508,53.93094512,-0.77854403,WheelchairAccess,InductionLoop,Both,#27AE60
+435,Nottingham 0526,52.9549338,-1.14800074,WheelchairAccess,InductionLoop,Both,#27AE60
+436,Tottenham 0892,51.5930759,-0.0698436,WheelchairAccess,None,Wheelchair Only,#003FF6
+437,Kingsbury 0665,51.58526111,-0.27753255,WheelchairAccess,InductionLoop,Both,#27AE60
+438,Fulham 0268,51.4801611,-0.1986733,None,None,None,#E74C3C
+439,Brentwood 0297,51.62097751,0.30538134,WheelchairAccess,None,Wheelchair Only,#003FF6
+440,Weston-Super-Mare 0434,51.34652666,-2.97822827,WheelchairAccess,None,Wheelchair Only,#003FF6
+441,Golders Green 0221,51.57173184,-0.19579146,WheelchairAccess,None,Wheelchair Only,#003FF6
+442,Milton Keynes 1164,52.05588043,-0.85118914,WheelchairAccess,None,Wheelchair Only,#003FF6
+443,Blandford Forum 1005,50.85610406,-2.16568015,WheelchairAccess,InductionLoop,Both,#27AE60
+444,St. Neots 1160,52.22782185,-0.27161066,WheelchairAccess,InductionLoop,Both,#27AE60
+445,Woking 0324,51.3194667,-0.5582829,WheelchairAccess,None,Wheelchair Only,#003FF6
+446,Llandudno 0490,53.32248082,-3.82466469,None,InductionLoop,InductionLoop Only,#FA8406
+447,Hayes 0232,51.5068389,-0.4184289,WheelchairAccess,None,Wheelchair Only,#003FF6
+448,Southampton 1296,51.09042494,-1.16144545,WheelchairAccess,InductionLoop,Both,#27AE60
+449,Langley 1465,51.5037776,-0.5418444,WheelchairAccess,InductionLoop,Both,#27AE60
+450,Darlington 0867,54.52602703,-1.5557743,None,None,None,#E74C3C
+451,Wilmslow 1427,53.3267631,-2.2313277,WheelchairAccess,InductionLoop,Both,#27AE60
+452,Hanley 0595,53.02597564,-2.17399757,None,None,None,#E74C3C
+453,Windsor 0304,51.48086714,-0.61082645,WheelchairAccess,InductionLoop,Both,#27AE60
+454,Chippenham 0499,51.45833848,-2.11459391,WheelchairAccess,InductionLoop,Both,#27AE60
+455,Scarborough 0822,54.2806315,-0.4044498,WheelchairAccess,InductionLoop,Both,#27AE60
+456,Reading 0353,51.4558327,-0.9735896,WheelchairAccess,InductionLoop,Both,#27AE60
+457,Ashton-In-Makerfield 0777,53.4861657,-2.6376406,None,InductionLoop,InductionLoop Only,#FA8406
+458,Ely 0555,52.39951073,0.26565974,None,InductionLoop,InductionLoop Only,#FA8406
+459,East Kilbride 0910,55.7607313,-4.1771013,WheelchairAccess,InductionLoop,Both,#27AE60
+460,Forfar 0929,56.64535037,-2.88870388,WheelchairAccess,None,Wheelchair Only,#003FF6
+461,Bracknell 0360,51.4167199,-0.7503408,WheelchairAccess,None,Wheelchair Only,#003FF6
+462,Bromsgrove 0521,52.334572,-2.061049,WheelchairAccess,InductionLoop,Both,#27AE60
+463,Warminster 0687,51.20429613,-2.17925953,None,InductionLoop,InductionLoop Only,#FA8406
+464,Ramsgate 0280,51.33454064,1.41808636,None,InductionLoop,InductionLoop Only,#FA8406
+465,Sawbridgeworth 1475,51.81236858,0.15129547,WheelchairAccess,InductionLoop,Both,#27AE60
+466,Grimsby 0816,53.5656359,-0.0848915,WheelchairAccess,InductionLoop,Both,#27AE60
+467,Harrow 0295,51.59466995,-0.33501331,WheelchairAccess,InductionLoop,Both,#27AE60
+468,Paddock Wood 1188,51.18038832,0.38827322,WheelchairAccess,InductionLoop,Both,#27AE60
+469,Kingston upon Thames 0256,51.41003833,-0.30272148,None,None,None,#E74C3C
+470,Stockport 0788,53.41082811,-2.15879913,WheelchairAccess,None,Wheelchair Only,#003FF6
+471,Tonbridge 0284,51.19427536,0.27404925,None,InductionLoop,InductionLoop Only,#FA8406
+472,Cheshunt 0890,51.70138754,-0.03479466,WheelchairAccess,InductionLoop,Both,#27AE60
+473,Newtownards 0945,54.59279201,-5.69373764,WheelchairAccess,InductionLoop,Both,#27AE60
+474,Romford 0202,51.5767838,0.1810426,None,None,None,#E74C3C
+475,Chelmsford 0227,51.73204525,0.47464616,WheelchairAccess,None,Wheelchair Only,#003FF6
+476,Bow 0635,51.5331909,-0.0296864,None,None,None,#E74C3C
+477,Altrincham 0706,53.3873692,-2.3496987,WheelchairAccess,InductionLoop,Both,#27AE60
+478,Dudley 0519,52.50945555,-2.08420765,WheelchairAccess,InductionLoop,Both,#27AE60
+479,Hamilton 0917,55.7750386,-4.0348355,WheelchairAccess,InductionLoop,Both,#27AE60
+480,Bridgnorth 1091,52.5357436,-2.4195773,None,InductionLoop,InductionLoop Only,#FA8406
+481,Hoddesdon 0895,51.759027,-0.0121186,None,InductionLoop,InductionLoop Only,#FA8406
+482,Montrose 0924,56.7125165,-2.46853066,WheelchairAccess,None,Wheelchair Only,#003FF6
+483,Crawley 0376,51.11613487,-0.18570564,WheelchairAccess,InductionLoop,Both,#27AE60
+484,Leyton 0636,51.57593138,-0.01244075,WheelchairAccess,InductionLoop,Both,#27AE60
+485,Uxbridge 0203,51.5461542,-0.4798624,WheelchairAccess,InductionLoop,Both,#27AE60
+486,Lewes 0313,50.87270463,0.00986509,WheelchairAccess,InductionLoop,Both,#27AE60
+487,Uckfield 1343,50.97121111,0.09625269,None,InductionLoop,InductionLoop Only,#FA8406
+488,Knutsford 1211,53.30395201,-2.3724862,None,InductionLoop,InductionLoop Only,#FA8406
+489,Dundee 0934,56.46182289,-2.97136612,WheelchairAccess,None,Wheelchair Only,#003FF6
+490,Milton Keynes 0658,52.0435148,-0.7571361,WheelchairAccess,InductionLoop,Both,#27AE60
+491,Torquay 0496,50.4664931,-3.5290579,None,InductionLoop,InductionLoop Only,#FA8406
+492,Swaffham 1405,52.6484605,0.6877409,WheelchairAccess,InductionLoop,Both,#27AE60
+493,Chester-Le-Street 0831,54.85813627,-1.57388337,WheelchairAccess,InductionLoop,Both,#27AE60
+494,Sale 0714,53.4243813,-2.3233163,WheelchairAccess,InductionLoop,Both,#27AE60
+495,Haverfordwest 0407,51.80225771,-4.96787264,None,InductionLoop,InductionLoop Only,#FA8406
+496,Portadown 0953,54.42286998,-6.44284054,WheelchairAccess,None,Wheelchair Only,#003FF6
+497,Sunderland 0819,54.90587865,-1.3824512,None,InductionLoop,InductionLoop Only,#FA8406
+498,Solihull 0502,52.41421977,-1.77989351,WheelchairAccess,None,Wheelchair Only,#003FF6
+499,Accrington 1183,53.75342068,-2.3666089,WheelchairAccess,InductionLoop,Both,#27AE60
+500,Aberdare 0732,51.71270559,-3.44373933,None,None,None,#E74C3C
+501,Goring 1210,50.81347902,-0.40349904,WheelchairAccess,InductionLoop,Both,#27AE60
+502,Galashiels 0923,55.6164965,-2.8069361,WheelchairAccess,InductionLoop,Both,#27AE60
+503,Worcester 0532,52.19283735,-2.22129961,WheelchairAccess,InductionLoop,Both,#27AE60
+504,Belfast 0947,54.59747719,-5.93045138,WheelchairAccess,None,Wheelchair Only,#003FF6
+505,Hayes 0891,51.5195363,-0.4122093,WheelchairAccess,InductionLoop,Both,#27AE60
+506,Garstang 0982,53.9000378,-2.7749592,WheelchairAccess,InductionLoop,Both,#27AE60
+507,Chester 0718,53.1913007,-2.8854894,WheelchairAccess,InductionLoop,Both,#27AE60
+508,Ilford 0212,51.5583545,0.0707406,None,InductionLoop,InductionLoop Only,#FA8406
+509,Sheerness 0625,51.44043638,0.76163746,None,None,None,#E74C3C
+510,New Milton 1297,50.75360902,-1.65558077,WheelchairAccess,InductionLoop,Both,#27AE60
+511,Coventry 0531,52.4084088,-1.5103612,WheelchairAccess,None,Wheelchair Only,#003FF6
+512,London 0239,51.51378208,-0.09297497,WheelchairAccess,None,Wheelchair Only,#003FF6
+513,Pinner 0970,51.59516899,-0.38458856,WheelchairAccess,InductionLoop,Both,#27AE60
+514,Sutton 0261,51.3617324,-0.1925724,None,None,None,#E74C3C
+515,Surbiton 0622,51.39196475,-0.30681417,None,None,None,#E74C3C
+516,Liverpool 0751,53.41367857,-2.91052736,WheelchairAccess,InductionLoop,Both,#27AE60
+517,Shanklin 1441,50.6318022,-1.1783412,WheelchairAccess,InductionLoop,Both,#27AE60
+518,Clacton-On-Sea 0681,51.78970521,1.15182615,WheelchairAccess,InductionLoop,Both,#27AE60
+519,Ramsey 1178,52.44835853,-0.10653272,None,InductionLoop,InductionLoop Only,#FA8406
+520,Dover 0285,51.12711661,1.31014622,WheelchairAccess,InductionLoop,Both,#27AE60
+521,Lymington 0426,50.7579346,-1.5443075,None,InductionLoop,InductionLoop Only,#FA8406
+522,Newport Pagnell 0390,52.0867015,-0.7235489,WheelchairAccess,InductionLoop,Both,#27AE60
+523,Southgate 0664,51.63321747,-0.13136047,WheelchairAccess,None,Wheelchair Only,#003FF6
+524,Gosport 0332,50.7950692,-1.1188389,WheelchairAccess,None,Wheelchair Only,#003FF6
+525,West Malling 0860,51.29433084,0.40893436,None,InductionLoop,InductionLoop Only,#FA8406
+526,Palmers Green 0210,51.61781194,-0.1096967,WheelchairAccess,InductionLoop,Both,#27AE60
+527,Peebles 1594,55.65222908,-3.18854031,None,InductionLoop,InductionLoop Only,#FA8406
+528,Pontypool 0492,51.70321405,-3.04178041,WheelchairAccess,InductionLoop,Both,#27AE60
+529,Aberystwyth 0510,52.4150411,-4.0841313,WheelchairAccess,InductionLoop,Both,#27AE60
+530,Ross-On-Wye 0863,51.91448984,-2.58398336,WheelchairAccess,InductionLoop,Both,#27AE60
+531,Wymondham 0884,52.5702586,1.1138459,WheelchairAccess,InductionLoop,Both,#27AE60
+532,Newton Abbot 0464,50.53075788,-3.60926015,WheelchairAccess,InductionLoop,Both,#27AE60
+533,Leicester 0748,52.6359069,-1.1321459,WheelchairAccess,None,Wheelchair Only,#003FF6
+534,Worthing 0349,50.81024815,-0.37034935,None,InductionLoop,InductionLoop Only,#FA8406
+535,Dartford 0673,51.44496974,0.21682348,WheelchairAccess,InductionLoop,Both,#27AE60
+536,Ballymena 0946,54.86607156,-6.27504504,WheelchairAccess,InductionLoop,Both,#27AE60
+537,Westbury-On-Trym 1411,51.49317019,-2.61807833,WheelchairAccess,InductionLoop,Both,#27AE60
+538,Bilston 0999,52.5651156,-2.0780568,WheelchairAccess,InductionLoop,Both,#27AE60
+539,Woodley 0362,51.45234,-0.905883,WheelchairAccess,InductionLoop,Both,#27AE60
+540,Felixstowe 0630,51.96315164,1.35175573,WheelchairAccess,InductionLoop,Both,#27AE60
+541,Edinburgh 0921,55.94287067,-3.28166504,WheelchairAccess,InductionLoop,Both,#27AE60
+542,Southampton 0319,50.9050016,-1.40400888,None,InductionLoop,InductionLoop Only,#FA8406
+543,Bolton 0772,53.57942537,-2.43053463,None,InductionLoop,InductionLoop Only,#FA8406
+544,Leigh-on-Sea 0638,51.54169338,0.65747373,WheelchairAccess,None,Wheelchair Only,#003FF6
+545,Manchester 0712,53.48226243,-2.24093221,WheelchairAccess,InductionLoop,Both,#27AE60
+546,Northampton 0963,52.26370397,-0.9000957,WheelchairAccess,InductionLoop,Both,#27AE60
+547,Worksop 0826,53.30264817,-1.12442604,WheelchairAccess,InductionLoop,Both,#27AE60
+548,Lancing 0469,50.82887661,-0.32236598,WheelchairAccess,InductionLoop,Both,#27AE60
+549,Newbury 0355,51.4033144,-1.3246001,WheelchairAccess,InductionLoop,Both,#27AE60
+550,Chesham 0317,51.70620286,-0.61195251,WheelchairAccess,InductionLoop,Both,#27AE60
+551,Bangor 0942,54.66128662,-5.66815562,WheelchairAccess,None,Wheelchair Only,#003FF6
+552,Milford Haven 0481,51.71304545,-5.03478795,WheelchairAccess,InductionLoop,Both,#27AE60
+553,Bromley 0273,51.4023498,0.0159304,WheelchairAccess,InductionLoop,Both,#27AE60
+554,Folkestone 0279,51.07808348,1.17800357,WheelchairAccess,InductionLoop,Both,#27AE60
+555,Luton 0656,51.87943424,-0.41733196,WheelchairAccess,InductionLoop,Both,#27AE60
+556,Sidcup 0627,51.42649189,0.10195999,WheelchairAccess,InductionLoop,Both,#27AE60
+557,Reigate 0339,51.23798295,-0.2091015,None,InductionLoop,InductionLoop Only,#FA8406
+558,Ferndown 0423,50.8030033,-1.890541,WheelchairAccess,InductionLoop,Both,#27AE60
+559,Whitstable 0670,51.35818949,1.02460743,WheelchairAccess,InductionLoop,Both,#27AE60
+560,Atherstone 0885,52.57768406,-1.54739186,None,InductionLoop,InductionLoop Only,#FA8406
+561,London 0264,51.4613081,-0.16710472,WheelchairAccess,InductionLoop,Both,#27AE60
+562,Port Talbot 0488,51.59456862,-3.78228684,WheelchairAccess,None,Wheelchair Only,#003FF6
+563,Leamington Spa 0512,52.2899137,-1.5356297,None,InductionLoop,InductionLoop Only,#FA8406
+564,Rainham 0786,51.3635529,0.60777045,WheelchairAccess,InductionLoop,Both,#27AE60
+565,Finchley 0205,51.61644352,-0.17651197,WheelchairAccess,InductionLoop,Both,#27AE60
+566,Wolverhampton 1326,52.5846859,-2.1280944,None,None,None,#E74C3C
+567,Market Harborough 1073,52.47827466,-0.92177744,None,InductionLoop,InductionLoop Only,#FA8406
+568,Frome 1206,51.23151696,-2.32131336,WheelchairAccess,InductionLoop,Both,#27AE60
+569,St. Ives 1132,52.3231462,-0.07182964,WheelchairAccess,InductionLoop,Both,#27AE60
+570,Lichfield 1668,52.683207,-1.8263378,None,None,None,#E74C3C
+571,Hythe 1382,51.07139175,1.08401873,None,InductionLoop,InductionLoop Only,#FA8406
+572,Skegness 0652,53.14288361,0.33908598,WheelchairAccess,None,Wheelchair Only,#003FF6
+573,Burnley 0757,53.78937758,-2.24431541,WheelchairAccess,InductionLoop,Both,#27AE60
+574,Watford 0611,51.65833433,-0.40062576,WheelchairAccess,None,Wheelchair Only,#003FF6
+575,Borehamwood 0668,51.65578762,-0.27627043,WheelchairAccess,InductionLoop,Both,#27AE60
+576,Lanark 0861,55.6737265,-3.7775696,WheelchairAccess,InductionLoop,Both,#27AE60
+577,East Grinstead 0344,51.12614922,-0.00994331,WheelchairAccess,InductionLoop,Both,#27AE60
+578,Burnham-On-Sea 0432,51.2376019,-2.99736625,WheelchairAccess,InductionLoop,Both,#27AE60
+579,Rushden 0647,52.2910749,-0.5980655,WheelchairAccess,None,Wheelchair Only,#003FF6
+580,Derby 0583,52.89009407,-1.45113281,None,None,None,#E74C3C
+581,Scunthorpe 0840,53.59151109,-0.64768571,WheelchairAccess,InductionLoop,Both,#27AE60
+582,Sevenoaks 0468,51.27027761,0.19313675,WheelchairAccess,None,Wheelchair Only,#003FF6
+583,Barnet 0238,51.65450451,-0.20177167,WheelchairAccess,InductionLoop,Both,#27AE60
+584,Blackpool 0703,53.81868988,-3.05377028,WheelchairAccess,InductionLoop,Both,#27AE60
+585,Taunton 0401,51.014489,-3.100755,WheelchairAccess,InductionLoop,Both,#27AE60
+586,Princes Risborough 1192,51.72324822,-0.83080986,WheelchairAccess,InductionLoop,Both,#27AE60
+587,Durham 0814,54.77682636,-1.57524754,WheelchairAccess,InductionLoop,Both,#27AE60
+588,Saffron Walden 0879,52.0230962,0.2406954,WheelchairAccess,None,Wheelchair Only,#003FF6
+589,Northwood 0663,51.6114199,-0.4248086,WheelchairAccess,InductionLoop,Both,#27AE60
+590,Newcastle Upon Tyne 0824,54.97459682,-1.61107622,WheelchairAccess,InductionLoop,Both,#27AE60
+591,Ealing 0217,51.51290378,-0.30522886,WheelchairAccess,None,Wheelchair Only,#003FF6
+592,Kings Lynn 0607,52.75392017,0.39608316,WheelchairAccess,InductionLoop,Both,#27AE60
+593,Weymouth 0301,50.6105399,-2.4537896,WheelchairAccess,InductionLoop,Both,#27AE60
+594,Edgware 0215,51.61584895,-0.27571749,WheelchairAccess,InductionLoop,Both,#27AE60
+595,Hounslow 0219,51.46859001,-0.36404944,WheelchairAccess,InductionLoop,Both,#27AE60
+596,Leominster 1271,52.22762923,-2.73858113,WheelchairAccess,InductionLoop,Both,#27AE60
+597,Melton Mowbray 1196,52.7648531,-0.8880737,WheelchairAccess,InductionLoop,Both,#27AE60
+598,Basildon 0208,51.5699613,0.4587507,WheelchairAccess,None,Wheelchair Only,#003FF6
+599,Sittingbourne 0383,51.33997018,0.73555795,WheelchairAccess,InductionLoop,Both,#27AE60
+600,Coatbridge 0927,55.86257176,-4.02569599,WheelchairAccess,InductionLoop,Both,#27AE60
+601,Purley 0628,51.3396087,-0.1154625,WheelchairAccess,None,Wheelchair Only,#003FF6
+602,Rye 0497,50.95084604,0.73299047,WheelchairAccess,InductionLoop,Both,#27AE60
+603,Leicester 0868,52.60066519,-1.08417291,WheelchairAccess,InductionLoop,Both,#27AE60
+604,Glasgow 0913,55.85817947,-4.25307011,WheelchairAccess,None,Wheelchair Only,#003FF6
+605,Farnborough 0326,51.290876,-0.7547728,WheelchairAccess,InductionLoop,Both,#27AE60
+606,Ashford 0282,51.1493432,0.8710659,WheelchairAccess,InductionLoop,Both,#27AE60
+607,Elgin 0920,57.64850531,-3.31475624,WheelchairAccess,InductionLoop,Both,#27AE60
+608,Hammersmith 0249,51.49241187,-0.22910691,WheelchairAccess,None,Wheelchair Only,#003FF6
+609,Witham 1143,51.79843776,0.63805397,None,InductionLoop,InductionLoop Only,#FA8406
+610,Addlestone 0679,51.37170251,-0.48837661,WheelchairAccess,InductionLoop,Both,#27AE60
+611,Thame 0356,51.74825216,-0.97904204,None,InductionLoop,InductionLoop Only,#FA8406
+612,Bletchley 0615,51.99490434,-0.72988696,WheelchairAccess,InductionLoop,Both,#27AE60
+613,Attleborough 1440,52.51827678,1.01756171,WheelchairAccess,InductionLoop,Both,#27AE60
+614,Bristol 0411,51.4582603,-2.585583,None,None,None,#E74C3C
+615,Dunfermline 1592,56.05010288,-3.4302441,None,InductionLoop,InductionLoop Only,#FA8406
+616,Macclesfield 0709,53.2595593,-2.1270736,WheelchairAccess,InductionLoop,Both,#27AE60
+617,Stafford 1322,52.72525875,-2.11579696,WheelchairAccess,InductionLoop,Both,#27AE60
+618,Northampton 0366,52.2735207,-0.8759081,WheelchairAccess,InductionLoop,Both,#27AE60
+619,Newry 0559,54.17520677,-6.3376146,None,None,None,#E74C3C
+620,Swindon 0350,51.5401696,-1.7776907,WheelchairAccess,InductionLoop,Both,#27AE60
+621,Brighton 0321,50.82285339,-0.14373757,WheelchairAccess,InductionLoop,Both,#27AE60
+622,Stafford 0545,52.80526827,-2.11610291,WheelchairAccess,None,Wheelchair Only,#003FF6
+623,Wembley 0207,51.5534911,-0.2944792,WheelchairAccess,None,Wheelchair Only,#003FF6
+624,Coleraine 0948,55.13131,-6.67167,WheelchairAccess,None,Wheelchair Only,#003FF6
+625,Midhurst 1295,50.98640285,-0.73894509,None,InductionLoop,InductionLoop Only,#FA8406
+626,York 0396,54.1224793,-1.1914081,None,InductionLoop,InductionLoop Only,#FA8406
+627,Hedge End 1223,50.91314855,-1.30474224,WheelchairAccess,InductionLoop,Both,#27AE60
+628,Stamford 0653,52.65244127,-0.47781475,None,None,None,#E74C3C
+629,Hinckley 0746,52.5417981,-1.3736352,WheelchairAccess,InductionLoop,Both,#27AE60
+630,Broadstone 1039,50.7596913,-1.9942681,WheelchairAccess,InductionLoop,Both,#27AE60
+631,Northwich 1514,53.26052889,-2.51560641,WheelchairAccess,InductionLoop,Both,#27AE60
+632,Swadlincote 1967,52.77385889,-1.55821974,None,None,None,#E74C3C
+633,Bury 0725,53.5946345,-2.29209003,WheelchairAccess,InductionLoop,Both,#27AE60
+634,Sandwich 1403,51.27401384,1.34126678,None,InductionLoop,InductionLoop Only,#FA8406
+635,Farnham 0331,51.21513934,-0.79878825,None,InductionLoop,InductionLoop Only,#FA8406
+636,Sheffield 1667,53.41468852,-1.41123972,WheelchairAccess,InductionLoop,Both,#27AE60
+637,Redditch 0524,52.306426,-1.941908,None,InductionLoop,InductionLoop Only,#FA8406
+638,Buxton 1488,53.2596223,-1.9118012,WheelchairAccess,InductionLoop,Both,#27AE60
+639,Telford 0547,52.6770668,-2.4471454,WheelchairAccess,InductionLoop,Both,#27AE60
+640,Didcot 1265,51.6072248,-1.2390542,WheelchairAccess,InductionLoop,Both,#27AE60
+641,Derby 1270,52.90679898,-1.38104261,WheelchairAccess,InductionLoop,Both,#27AE60
+642,Wandsworth 0998,51.454743,-0.193333,WheelchairAccess,None,Wheelchair Only,#003FF6
+643,Brierley Hill 0790,52.48282465,-2.11272906,WheelchairAccess,InductionLoop,Both,#27AE60
+644,Barnstaple 0465,51.081865,-4.060041,None,InductionLoop,InductionLoop Only,#FA8406
+645,Hemel Hempstead 0612,51.7477103,-0.47260005,WheelchairAccess,InductionLoop,Both,#27AE60
