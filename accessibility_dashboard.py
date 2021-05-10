@@ -82,16 +82,20 @@ fig_pct_nw.update_traces(marker_color='#F17D0F',
                         opacity=0.8)
 fig_pct_nw.update_layout(title_text='Percentage of Nation Wide Branches by Accessibility Type')
 
+st.title('Bank Accessibiility - Wheelchair Access and Hearing Aid')
+
 viz = st.sidebar.radio('Select Bank',('HSBC','Nation Wide'))
 
 if viz == 'HSBC':
-    st.markdown('HSBC Percentage of Branches for Accessibility Type')
     st.plotly_chart(fig_pct_hsbc)
     st.markdown('Map Visualisation')
     st.plotly_chart(fig)
 
 if viz == 'Nation Wide':
-    st.markdown('Nation Wide Percentage of Branches for Accessibility Type')
     st.plotly_chart(fig_pct_nw)
     st.markdown('Map Visualisation')
     st.plotly_chart(fig_nw)
+
+st.sidebar.markdown('Hi Bob, this is an example that we can showcase both to Matt and Jenny when it will be the time. This webapp pulls data from OpenBanking API and displays it')
+
+st.sidebar.markdown('The code for the dashboard is here: https://github.com/RomanTomz/bank_acessibility. In this example, GitHub acts as container for all the packages needed and once deployed it runs independently on the TP server')
