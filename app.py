@@ -82,16 +82,16 @@ fig_pct_nw.update_traces(marker_color='#F17D0F',
                         opacity=0.8)
 fig_pct_nw.update_layout(title_text='Percentage of Nation Wide Branches by Accessibility Type')
 
-st.title('Bank Accessibiility - Wheelchair Access and Hearing Aid')
+st.title('UK Banks Accessibility - Wheelchair Access and Hearing Aid')
 
-viz = st.sidebar.radio('Select Bank',('HSBC','Nation Wide'))
+viz = st.sidebar.radio('Select Bank',('HSBC','Nationwide'))
 
 if viz == 'HSBC':
     st.plotly_chart(fig_pct_hsbc)
     st.markdown('Map Visualisation')
     st.plotly_chart(fig)
 
-if viz == 'Nation Wide':
+if viz == 'Nationwide':
     st.plotly_chart(fig_pct_nw)
     st.markdown('Map Visualisation')
     st.plotly_chart(fig_nw)
